@@ -1,3 +1,3 @@
 # rand.php
 
-[ledyba.org](http://ledyba.org)のヘッダに表示される名言リストです。
+[ledyba.org](http://ledyba.org)のヘッダにランダムで表示される言葉のリストです。
