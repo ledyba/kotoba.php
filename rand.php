@@ -390,6 +390,9 @@ $str = array(
 これのソレの一部もさ、<br>
 おじさんたちの蟹代になるのかな？<br>
 （クロン / 「Karous -The Beast of Re:Eden-」）
+","
+「ったく、ダズント ノウ エニシングかよ！」<br>
+（ハッカドール 第11話 「声優警察出動だ！」）
 "
 );
 echo $str[array_rand($str)];
