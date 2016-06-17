@@ -435,6 +435,9 @@ $str = array(
 本当に何をすればいいんだろうな、<br>
 ワイルドギース。<br>
 （PS VITA「ご注文はうさぎですか？？ Wonderful party！」）
+","
+県の偉い人「うどんの文化だけは、絶やしてはならない…」<br>
+（結城友奈は勇者である Blu-ray Vol.1 特典ゲーム）
 "
 );
 echo $str[array_rand($str)];
