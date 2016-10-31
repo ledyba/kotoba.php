@@ -492,6 +492,9 @@ $str = array(
 だから何度だってね 試してみようって決めたよ<br>
 明日起きたら もういちどほかの方法考えよう<br>
 （あんハピ♪ ED 「明日でいいから」）
+","
+日本の２割が賛成している　不安や虚無から開放されるという<br>
+（<a href=\"https://www.youtube.com/watch?v=BFa0SA4pEKo\">あなたもロボットになれる feat. かもめ児童合唱団 / 坂本慎太郎</a>）
 "
 );
 echo $str[array_rand($str)];
