@@ -505,6 +505,10 @@ $str = array(
 でもダメだよ　死んじゃうなんて！<br>
 やり直そうよ！　私が友達になるから！<br>
 （「神様生徒会部！」 01巻）
+","
+あたまいたいできごと　まともが　わからない<br>
+うそみたいな人たち　悪いジョークなんだろ？<br>
+（<a href=\"https://www.youtube.com/watch?v=jbpS_elm8Q4\">まともがわからない / 坂本慎太郎</a>）
 "
 );
 echo $str[array_rand($str)];
