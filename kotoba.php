@@ -509,6 +509,9 @@ $str = array(
 あたまいたいできごと　まともが　わからない<br>
 うそみたいな人たち　悪いジョークなんだろ？<br>
 （<a href=\"https://www.youtube.com/watch?v=jbpS_elm8Q4\">まともがわからない / 坂本慎太郎</a>）
+","
+その「みんな」の中に、わたしは含まれますか…？<br>
+（わかば*ガール 02葉 「Dカップでお願いします」）
 "
 );
 echo $str[array_rand($str)];
