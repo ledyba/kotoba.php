@@ -512,6 +512,10 @@ $str = array(
 ","
 その「みんな」の中に、わたしは含まれますか…？<br>
 （わかば*ガール 02葉 「Dカップでお願いします」）
+","
+> * Who did it, will they be fired?<br>
+> Someone made a mistake, they won't be fired.<br>
+（Gitlab, <a href=\"https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/\">データベースを間違えて削除してしまった事故</a>について）
 "
 );
 echo $str[array_rand($str)];
