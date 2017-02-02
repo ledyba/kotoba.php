@@ -1,4 +1,3 @@
-<!-- start random message -->
  <?php
 $str = array(
 "
@@ -574,7 +573,7 @@ $str = array(
 （Gitlab, <a href=\"https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/\">データベースを間違えて削除してしまった事故</a>について）
 "
 );
-echo $str[array_rand($str)];
 ?>
-<!-- from <?php echo count($str); ?> messages -->
+<!-- start random message (<?php echo count($str); ?> messages) -->
+<?php echo $str[array_rand($str)]; ?>
 <!-- end random message -->
