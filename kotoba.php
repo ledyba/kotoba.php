@@ -511,10 +511,10 @@ $str = array(
 （<a href=\"https://www.youtube.com/watch?v=jbpS_elm8Q4\">まともがわからない / 坂本慎太郎</a>）
 ","
 その「みんな」の中に、わたしは含まれますか…？<br>
-（わかば*ガール 02葉 「Dカップでお願いします」）
+（わかば*ガール 二葉 「Dカップでお願いします」）
 ","
-> * Who did it, will they be fired?<br>
-> Someone made a mistake, they won't be fired.<br>
+&gt; * Who did it, will they be fired?<br>
+&gt; Someone made a mistake, they won&apos;t be fired.<br>
 （Gitlab, <a href=\"https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/\">データベースを間違えて削除してしまった事故</a>について）
 "
 );
