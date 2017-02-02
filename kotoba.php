@@ -576,4 +576,5 @@ $str = array(
 );
 echo $str[array_rand($str)];
 ?>
+<!-- from <?php echo count($str); ?> messages -->
 <!-- end random message -->
