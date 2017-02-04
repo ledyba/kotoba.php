@@ -617,6 +617,10 @@ $str = array(
 ストレスレスな生活が　いつか待ってる<br>
 （MOSAIC.WAV　「ストレス Free Style」）
 ","
+濃厚なストーリー無くていいから<br>
+一緒に1クール　踊り明かそう(Hey!)<br>
+（MOSAIC.WAV　「ストレス Free Style」）
+","
 2000人の中から　毎日選ばれるぼくは<br>
 きっとそう特別　そんな気がして　こ　な　い<br>
 （MOSAIC.WAV　「迷惑メーリングGirl」）
