@@ -646,7 +646,7 @@ $str = array(
 （がっこうぐらし！ 07巻 47話「ほうしん」）
 ","
 ひたすら円周率の計算をしたい人ならCore 2 Duoを買ってください<br>
-（<a href='http://akiba-pc.watch.impress.co.jp/hotline/20060812/etc_amdevent.html'>AMD</a> / 円周率計算プログラム「スーパーπ」の実行がAMDのCPUで遅いことに関して）
+（AMD / <a href='http://akiba-pc.watch.impress.co.jp/hotline/20060812/etc_amdevent.html'>円周率計算プログラム「スーパーπ」の実行がAMDのCPUで遅いことに関して</a>）
 "
   
 );
