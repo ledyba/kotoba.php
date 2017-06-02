@@ -650,8 +650,11 @@ $str = array(
 ","
 ひたすら円周率の計算をしたい人ならCore 2 Duoを買ってください<br>
 （AMD / <a href='http://akiba-pc.watch.impress.co.jp/hotline/20060812/etc_amdevent.html'>円周率計算プログラム「スーパーπ」の実行がAMDのCPUで遅いことに関して</a>）
-"
-  
+","
+無い無い　いない　もとからいない<br>
+存在しない　架空のまま<br>
+（「<a href=\"https://www.youtube.com/watch?v=ACEBZ-KmuQo\">THERAPY</a>」 / group_inou）
+"  
 );
 ?>
 <!-- start random message (<?php echo count($str); ?> messages) -->
