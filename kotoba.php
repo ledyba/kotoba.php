@@ -654,7 +654,14 @@ $str = array(
 無い無い　いない　もとからいない<br>
 存在しない　架空のまま<br>
 （「<a href=\"https://www.youtube.com/watch?v=ACEBZ-KmuQo\">THERAPY</a>」 / group_inou）
-"  
+","
+ぎらぎらとした人の顔、顔、顔、顔、顔、顔、<br>
+面構えと顔、顔、顔、<br>
+面構えと<br>
+顔、<br>
+顔<br>
+（「SWAN」 / group_inou）
+"
 );
 ?>
 <!-- start random message (<?php echo count($str); ?> messages) -->
