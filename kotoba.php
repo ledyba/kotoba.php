@@ -661,6 +661,12 @@ $str = array(
 顔、<br>
 顔<br>
 （「SWAN」 / group_inou）
+","
+世界は一つ&nbsp;インターネット<br>
+遠い異国の悲しみを<br>
+リアルタイムで眺めては<br>
+胸を痛めて涙する<br>
+（<a href=\"https://www.youtube.com/watch?v=ZJf3l9CVR2M\">インターネットブルース</a> / かもめ児童合唱団）
 "
 );
 ?>
