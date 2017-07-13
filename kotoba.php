@@ -667,6 +667,11 @@ $str = array(
 リアルタイムで眺めては<br>
 胸を痛めて涙する<br>
 （<a href=\"https://www.youtube.com/watch?v=ZJf3l9CVR2M\">インターネットブルース</a> / かもめ児童合唱団）
+","
+ええい、見ておれ小役人。<br>
+こういうときもあろうかと、密かに作った秘密の兵器。<br>
+科学の力を思い知れ！<br>
+(EXACT / Jumping Flash!)
 "
 );
 ?>
