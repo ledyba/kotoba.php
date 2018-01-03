@@ -713,6 +713,11 @@ $str = array(
 「見て見ぬふりする」<br>
 「「器用な人間」」<br>
 （<a href=\"https://www.youtube.com/watch?v=EEIAqrGJLSc\">ラーメンズ『CHERRY BLOSSOM FRONT 345』より「マーチンとプーチン２」</a>）
+","
+何よそれは！<br>
+マヨネーズも、パンの耳も、素晴らしいじゃない！<br>
+侮辱するなんて、許さないわ！<br>
+（三者三葉）
 "
 );
 ?>
