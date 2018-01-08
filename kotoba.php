@@ -737,7 +737,7 @@ The following are all common personal aims:<br>
 If you choose to try this opportunity,<br>
 it means you will have the chance to work with<br>
 world-class experts, easygoing guys, and very stable team.<br>
-（GitHubを見て送ってきたというどこかの会社の求人メール、この会社で働くことについてのアピール）
+（GitHubを見て送ってきたというどこかの会社の求人メール、この会社で働くことのとびきりのアピール）
 ");
 ?><!-- start random message (<?php echo count($str); ?> messages) --><?php
   echo $str[array_rand($str)]; ?>
