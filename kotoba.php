@@ -733,6 +733,11 @@ The following are all common personal aims:<br>
  - To describe what I did<br>
  - To explain my ideas<br>
 （Writing Technical Papers in English, 東京大学理学部情報科学科の英語テキスト）
+","
+If you choose to try this opportunity,<br>
+it means you will have the chance to work with<br>
+world-class experts, easygoing guys, and very stable team.<br>
+（Githubを見て送ってきたというどこかの会社の求人メール）
 ");
 ?><!-- start random message (<?php echo count($str); ?> messages) --><?php
   echo $str[array_rand($str)]; ?>
