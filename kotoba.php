@@ -739,6 +739,6 @@ it means you will have the chance to work with<br>
 world-class experts, easygoing guys, and very stable team.<br>
 （GitHubを見て送ってきたというどこかの会社の求人メール、この会社で働くことのとびきりのアピール）
 ");
-  echo "!-- start random message (<?php echo count($str); ?> messages) -->\n";
+  echo "<!-- start random message (${count($str)} messages) -->\n";
   echo $str[array_rand($str)];
   echo "<!-- end random message -->\n";
