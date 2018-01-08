@@ -734,7 +734,6 @@ The following are all common personal aims:<br>
  - To explain my ideas<br>
 （Writing Technical Papers in English, 東京大学理学部情報科学科の英語テキスト）
 ");
-?>
-<!-- start random message (<?php echo count($str); ?> messages) -->
-<?php echo $str[array_rand($str)]; ?>
+?><!-- start random message (<?php echo count($str); ?> messages) --><?php
+  echo $str[array_rand($str)]; ?>
 <!-- end random message -->
