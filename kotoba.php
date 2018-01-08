@@ -740,5 +740,5 @@ world-class experts, easygoing guys, and very stable team.<br>
 （GitHubを見て送ってきたというどこかの会社の求人メール、この会社で働くことのとびきりのアピール）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
-  echo $str[array_rand($str)];
+  echo trim($str[array_rand($str)])."\n";
   echo "<!-- end random message -->\n";
