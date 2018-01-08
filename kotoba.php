@@ -722,6 +722,17 @@ $str = array(
 6. 本能のままに行動します<br>
 7. 可愛さが基準です<br>
 （BPS バトル・プログラマー・シラセ / キャラテック社のモットー）
+","
+<b>Why are you writing?</b><br>
+The following are all common personal aims:<br>
+ - To satisfy my professor<br>
+ - To pass an exam<br>
+ - To go to a conference in Hawaii<br>
+ - To get published<br>
+ - To gain respect<br>
+ - To describe what I did<br>
+ - To explain my ideas<br>
+（Writing Technical Papers in English, 東京大学理学部情報科学科の英語テキスト）
 ");
 ?>
 <!-- start random message (<?php echo count($str); ?> messages) -->
