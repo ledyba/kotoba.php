@@ -732,6 +732,12 @@ If you choose to try this opportunity,
 it means you will have the chance to work with
 world-class experts, easygoing guys, and very stable team.
 （GitHubを見て送ってきたというどこかの会社の求人メール, この会社で働くことのとびきりのアピール）
+","
+犬か猫「ぼくもそうおもうにゃわん」
+（プテピピック　#2 「異次元遊戯 ヴァンヴー」）
+","
+犬か猫「ぼくもそうおもうわんにゃ」
+（プテピピック　#2 「異次元遊戯 ヴァンヴー」）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
