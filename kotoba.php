@@ -738,6 +738,13 @@ world-class experts, easygoing guys, and very stable team.
 ","
 犬か猫「ぼくもそうおもうわんにゃ」
 （プテピピック　#2 「異次元遊戯 ヴァンヴー」）
+","
+「ズットスキデ　ヒトリデ ヤッテキタノハ　ニンギョウ ウラナイ…」
+私 小さい頃から人見知りで この子だけが遊び相手だったんだけど…
+ある日この子が 私の考えてる事を　話し始めて
+私もこの子が考えている事が わかる様になってきて
+それ以来大事な事は二人で相談して決めてきたの…
+（うらら迷路帖 第1巻 第02話）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
