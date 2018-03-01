@@ -792,6 +792,12 @@ world-class experts, easygoing guys, and very stable team.
 「ありがとう。恩に着るよ、君たち。」
 「じゃー、さっそく恩返ししてもらっていいすか？」
 （ひなろじ〜form Luck &amp; Logic〜 第04話 恩を花で返す）
+","
+しあわあせの色は どんな色？
+かえりみち　空に聞いてみる
+お星様一つ輝いた
+きっと、幸せはオレンジ色
+（「しあわせ色」 / 園田智也 / アニメ「ひなこのーと」 EDカップリング曲）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
