@@ -803,6 +803,13 @@ world-class experts, easygoing guys, and very stable team.
 おばけ すっっっごく こわかったけど
 めぐねえが居たから平気だった！
 （がっこうぐらし！ #2 「おもいで」）
+","
+あの日、授業が早めに終わって。
+でも、空があんまり青くて綺麗だったから、
+まっすぐ帰るのが勿体なくて。
+
+―ちょっとだけ、寄り道をした。
+（がっこうぐらし！ #4 「えんそく」）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
