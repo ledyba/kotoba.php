@@ -798,6 +798,11 @@ world-class experts, easygoing guys, and very stable team.
 お星様一つ輝いた
 きっと、幸せはオレンジ色
 （「しあわせ色」 / 園田智也 / アニメ「ひなこのーと」 EDカップリング曲）
+","
+うんっ！
+おばけ すっっっごく こわかったけど
+めぐねえが居たから平気だった！
+（がっこうぐらし！ #2 「おもいで」）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
