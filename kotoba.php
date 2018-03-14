@@ -810,6 +810,13 @@ world-class experts, easygoing guys, and very stable team.
 
 ―ちょっとだけ、寄り道をした。
 （がっこうぐらし！ #4 「えんそく」）
+","
+やはり仕組みを理解したいという気持ちは
+人間のチカラの原動力なわけですから、
+理屈抜きに本能的に楽しいわけです。
+
+カッコ悪く言えば知的好奇心というヤツです。
+（「CPUの創り方」 / 渡波 郁）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
