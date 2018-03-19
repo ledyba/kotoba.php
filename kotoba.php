@@ -963,6 +963,13 @@ world-class experts, easygoing guys, and very stable team.
 チーズバーガーとモーツァルトの間に選好の関係は必ずしもありません。
 
 （「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al.）
+","
+それから、奇妙なことが起こった。プロセッサコアの速度は変わらないまま、負荷は増え続けた。
+C++を避けてきた同じ企業がスケール問題を解決するためにC++プログラマを雇い始めた。
+始めからC++でコードを書き直すコストは、データセンターへの電力コストより少なくなった。
+突然、C++は再び一般的になった。
+
+（「<a href=\http://amzn.to/2FTej36\>Optimized C++</a> / Kurt Guntheroth）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
