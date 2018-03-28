@@ -936,40 +936,44 @@ world-class experts, easygoing guys, and very stable team.
 同期化の不十分な並行プログラムの振る舞いを人間の理性で判断する努力は、
 徒労ですから最初からしてはいけません。
 
-（「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al.）
+（「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al. / 岩谷宏 訳）
 ","
 規格は何度もバージョンアップしているのにドキュメンテーションは進歩しないので腹立たしいです。
 
-（「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al.）
+（「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al. / 岩谷宏 訳）
 ","
 自分の行った最適化の費用やリスクに気がつかない人は、単純に不注意なだけですよ
 
-（「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al.）
+（「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al. / 岩谷宏 訳）
 ","
 なぜ、こんな保守的な最適化論を振り回すのか？
 <strong>実効性能の追求は、並行処理のバグの最大の原因です。</strong>
 同期化は\"遅すぎる\"という思い込みや迷信から、同期化を減らすための巧妙に見えて実は危険な工夫が編み出され、同期化に関するルールに従わない言い訳としてあちこちで引用されます。
 しかし並行処理のバグは、原因究明と排除が一番難しいバグですから、バグになりかねないコードは細心の注意をもって扱うべきです。
 
-（「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al.）
+（「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al. / 岩谷宏 訳）
 ","
 多くの最適化が連れ歩いている安全とメンテナンスのリスクを、軽視してはいけません。
 そんな費用を払ってまで入手する価値のある最適化は、存在しません。
 
-（「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al.）
+（「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al. / 岩谷宏 訳）
 ","
 私たちは日常的に、半順序を使って選好を表現します。
 「チーズバーガーよりお寿司が好き」で「マーラーよりモーツァルトが好き」な場合、
 チーズバーガーとモーツァルトの間に選好の関係は必ずしもありません。
 
-（「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al.）
+（「<a href=\"http://amzn.to/2pnbKAj\">Java並行処理プログラミング</a>」 / Doug Lea et, al. / 岩谷宏 訳）
 ","
 それから、奇妙なことが起こった。プロセッサコアの速度は変わらないまま、負荷は増え続けた。
 C++を避けてきた同じ企業がスケール問題を解決するためにC++プログラマを雇い始めた。
 始めからC++でコードを書き直すコストは、データセンターへの電力コストより少なくなった。
 突然、C++は再び一般的になった。
 
-（「<a href=\http://amzn.to/2FTej36\>Optimized C++</a> / Kurt Guntheroth）
+（「<a href=\http://amzn.to/2FTej36\>Optimized C++</a> / Kurt Guntheroth / 黒川利明 翻）
+","
+<b>NPの壁</b>が我々に訴えかけるのは、「あきらめろ」ではなく「何とかしろ」なのである。
+
+（「<a href=\"https://amzn.to/2pK64jJ\">コンピュータは数学者になれるのか?</a>」 / 照井一成）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
