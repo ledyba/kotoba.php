@@ -1119,6 +1119,17 @@ C++を避けてきた同じ企業がスケール問題を解決するためにC+
 症状だけ聞かされたって何が悪いかなんて判るわけがないと思います。
 
 (<a href=\"http://www.silex.jp/blog/wireless/2013/11/wifi.html\">WiFiの接続手続きのはなし / サイレックス・テクノロジー株式会社</a>
+","
+&gt; ネトゲだって何も特しないけどひたすらのめりこむ人種いるじゃん
+&gt; それと同じようなもんじゃね？ 
+
+&gt; &gt;&gt;709
+&gt; そうだよ
+&gt; 結果がただカネになるかどうかで
+&gt; 世間は勝ち組と負け組を分けてるけど
+&gt; やってることはほとんど一緒
+
+（とある掲示板でのやりとり）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
