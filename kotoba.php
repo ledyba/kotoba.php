@@ -1176,7 +1176,7 @@ C++を避けてきた同じ企業がスケール問題を解決するためにC+
 たとえ、rの値がこの時点でわかっていなくても、
 <strong>それらは存在して、いずれ決定される</strong>という仮定を置いている。
 
-(レイティング・ランキングの数理 / Amy N.Langville ・Carl D.Meyer 著)
+(レイティング・ランキングの数理 / Amy N.Langville, Carl D.Meyer 著)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
