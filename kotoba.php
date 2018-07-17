@@ -1189,6 +1189,10 @@ C++を避けてきた同じ企業がスケール問題を解決するためにC+
 この山すべてが、わたしのもの！
 
 （ヤマノススメ サードシーズン 03話 「飯能にアルプス！？」）
+","
+「よくわかんない有名人」
+
+（とある研究室のミーティングで）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
