@@ -1200,6 +1200,10 @@ C++を避けてきた同じ企業がスケール問題を解決するためにC+
 「よくわかんない有名人」
 
 （とある研究室のミーティングで）
+","
+君はそのページを見なかったことにしてもいいし、いっそ黒く塗りつぶすのも自由だ
+
+（「<a href=\"http://dic.nicovideo.jp/a/%E4%B8%96%E7%95%8C%E6%A8%B9%E3%81%AE%E3%81%82%E3%81%AE%E3%81%AD\">世界樹のあのね</a>12」 / 南☆）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
