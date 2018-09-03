@@ -1230,6 +1230,10 @@ C++を避けてきた同じ企業がスケール問題を解決するためにC+
 人は業に生き、分別に苦しむ
 
 （とあるお寺）
+","
+「アリサさん。今すぐに、宇宙に行く方法ってありませんか？」
+
+（SGGG セガガガ）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
