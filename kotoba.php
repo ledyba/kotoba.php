@@ -1240,6 +1240,14 @@ C++を避けてきた同じ企業がスケール問題を解決するためにC+
 「うん！」
 
 （「あいまいみー」 109話 / ちょぼらうにょぽみ)
+","
+＝お<ruby>願<rt>ねが</rt></ruby>い＝
+<ruby>古<rt>ふる</rt></ruby>い<ruby>機<rt>き</rt></ruby><ruby>械<rt>かい</rt></ruby>です。
+<ruby>故<rt>こ</rt></ruby><ruby>障<rt>しょう</rt></ruby>すると<ruby>修<rt>しゅう</rt></ruby><ruby>理<rt>り</rt></ruby>ができません。
+やさしく<ruby>扱<rt>あつか</rt></ruby>ってください。
+
+（門司電気通信レトロ館, 実際に触れられる古い電話たちに対して / NTT西日本）
+,
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
