@@ -1291,6 +1291,28 @@ C++を避けてきた同じ企業がスケール問題を解決するためにC+
 「ふふふ。やはり、人間には、おにぎりだな」
 
 （となりの吸血鬼さん 第2話 「灯の友達」）
+","
+But there's no sense crying
+Over every mistake. 
+You just keep on trying 
+Till you run out of cake. 
+And the Science gets done. 
+And you make a neat gun. 
+For the people who are 
+Still alive. 
+
+(Portal ED \"Still Alive\" / Valve Software)
+","
+科学の進歩に
+失敗は付き物です。
+ケーキがなくなるまで、
+ひたすら試し続けるのです。
+科学はそうして進歩していくのです。
+そして、すばらしい銃が作られる。
+生きている人たちの
+ために。
+
+(Portal ED \"Still Alive\" / Valve Software)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
