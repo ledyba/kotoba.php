@@ -1240,6 +1240,16 @@ C++を避けてきた同じ企業がスケール問題を解決するためにC+
 
 （SGGG セガガガ）
 ","
+「麻衣ちゃん…！よく見ると腕…　傷だらけじゃないか…！」
+「これはね　賢くなるために　お母さんが躾でやってくれたんだぁ…
+　でも　私　物覚え悪くて…」
+「！？」
+「嘘松ツイートを見て
+　『なんで笑わないんだ！』『笑いなさい！笑いなさい！』って
+　ルンバで何回も叩かれたの…」
+
+（「あいまいみー」 109話 / ちょぼらうにょぽみ)
+","
 「ありゃ？なんか髪の毛くるくるになったぞ？
 　ちゃんと　自分に花丸　あげられそうかい？」
 「うん！」
@@ -1293,13 +1303,13 @@ C++を避けてきた同じ企業がスケール問題を解決するためにC+
 （となりの吸血鬼さん 第2話 「灯の友達」）
 ","
 But there's no sense crying
-Over every mistake. 
-You just keep on trying 
-Till you run out of cake. 
-And the Science gets done. 
-And you make a neat gun. 
-For the people who are 
-Still alive. 
+Over every mistake.
+You just keep on trying
+Till you run out of cake.
+And the Science gets done.
+And you make a neat gun.
+For the people who are
+Still alive.
 
 (Portal ED \"Still Alive\" / Valve Software)
 ","
@@ -1313,6 +1323,8 @@ Still alive.
 ために。
 
 (Portal ED \"Still Alive\" / Valve Software)
+","
+
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
