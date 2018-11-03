@@ -1338,7 +1338,7 @@ Still alive.
 
 (Portal ED \"Still Alive\" / Valve Software)
 ","
-
+ー 誰かが欲しいものなら、君が作らなくても誰かが作るよ
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
