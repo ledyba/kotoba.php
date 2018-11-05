@@ -1342,6 +1342,10 @@ Still alive.
 (Portal ED \"Still Alive\" / Valve Software)
 ","
 ー 誰かが欲しいものなら、君が作らなくても誰かが作るよ
+","
+色々な設定方法がありますが、肝心なのは後から見てわかりやすいように全ルータにおいて統一した設定方法を決めて、その上で設定を行うことです。
+
+(インターネットルーティング入門 第3版 /  友近 剛史, 池尻 雄一, 白崎 泰弘
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
