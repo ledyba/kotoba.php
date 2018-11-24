@@ -1403,6 +1403,8 @@ Still alive.
 「それは…今から来る人たちの分ですよ」
 
 （俺が好きなのは妹だけど妹じゃない 第6話 「俺と妹の白桜女学院文化祭」）
+","
+ー あまり現実ばかり見ていると、現実しか見えなくなっちゃうよ？
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
