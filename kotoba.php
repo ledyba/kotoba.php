@@ -1480,6 +1480,10 @@ Still alive.
 善悪の字を知った人は賢こぶる
 
 （とあるお寺）
+","
+「意識の外から撃たれないように注意してくれ」
+
+（<a href=\"https://youtu.be/D_1QFXAsmNs?t=906\">春のSTG祭り2017 第13戦 プロギアの嵐(Progear: Storm Of Progia)</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
