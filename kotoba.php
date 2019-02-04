@@ -1484,6 +1484,12 @@ Still alive.
 「意識の外から撃たれないように注意してくれ」
 
 （<a href=\"https://youtu.be/D_1QFXAsmNs?t=906\">春のSTG祭り2017 第13戦 プロギアの嵐(Progear: Storm Of Progia)</a>）
+","
+そもそも社会ってものが　地位や肩書きという虚構を見せて
+人の一生の元気な若い時分を捨てさせる装置だから
+その魔法が定年で解けちゃうんだよ
+
+（とあるSNSサイト）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
