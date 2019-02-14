@@ -1582,6 +1582,10 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 > 『存在しないはずの8月32日、終わらない夏休み、壊れていく世界』という偶然生まれた独特の世界観
 
 （Wikipedia 「ぼくのなつやすみ」 <a href=\"https://ja.wikipedia.org/w/index.php?title=%E3%81%BC%E3%81%8F%E3%81%AE%E3%81%AA%E3%81%A4%E3%82%84%E3%81%99%E3%81%BF&oldid=22415275\">2018年10月19日版</a>）
+","
+アノ地球《ホシ》ヲ、コワスタメ。
+
+（IREM / R-TYPE LEO）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
