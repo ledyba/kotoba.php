@@ -1585,7 +1585,11 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 ","
 アノ地球《ホシ》ヲ、コワスタメ。
 
-（IREM / R-TYPE LEO）
+（「R-TYPE LEO」 / IREM 1992）
+","
+敵は地球、未来の人類。
+
+（「サンダーブラスター」 / IREM 1991）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
