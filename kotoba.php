@@ -1659,6 +1659,14 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 「では、行きなさい あなたの空に」
 
 （「怒首領蜂最大往生」 PV / CAVE）
+","
+君と笑い、君と引く〜
+十連毎日無料ガチャ♪
+
+今日は誰と出会えるかな〜
+運命試したいよ〜♪
+
+（<a href=\"https://www.youtube.com/watch?v=QROqQSGMlZk\">【プリンセスコネクト！Re:Dive】CM「替え歌」篇</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
