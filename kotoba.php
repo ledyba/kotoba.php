@@ -1714,6 +1714,8 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 どこまでも行けるのに
 
 （今あたしがつむぐ日々 / 歌：麻生かほ里　作詞：吉池真一　作曲：なるけみちこ）
+","
+ー 無色透明の、ビット列。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
