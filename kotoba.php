@@ -1707,6 +1707,8 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 「…へ、へぇ…」
 
 （ビビッドレッド・オペレーション 第九話 「晴れときどきふわふわ」）
+","
+ – この世界で生きていくには、繊細すぎる。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
