@@ -1746,6 +1746,8 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 （なるまるまーる / 作詞: 辻 純更 作曲・編曲: 田中秀和 歌: はなこ(CV:花守ゆみり)）
 ","
 – この世界で生きていくには、繊細すぎる。
+","
+− 世界の終わりが、苦の終わり。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
