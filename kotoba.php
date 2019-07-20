@@ -1789,6 +1789,8 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 ー 悔しいけれど、こんなものでも、わたしの血肉になってるんだよ
 ","
 ー 諸行というのは、無常だなぁ。
+","
+ー 神社の黄昏時でしか、赦されない顔だよ、それ。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
