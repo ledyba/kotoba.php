@@ -1765,6 +1765,8 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 ー 良くも悪くも、平均値へ収束する。
 ","
 ー 良し悪しがなんであれ、平均値は平均値。
+","
+ー 魔女は色々なことを知ってないといけないからさ。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
