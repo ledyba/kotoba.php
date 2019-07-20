@@ -1787,6 +1787,8 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 ー 歯車のワルツ。
 ","
 ー 悔しいけれど、こんなものでも、わたしの血肉になってるんだよ
+","
+ー 諸行というのは、無常だなぁ。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
