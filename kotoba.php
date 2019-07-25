@@ -1799,6 +1799,8 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 ー 子狐たちが、そう言うなら。
 ","
 ー 子狐たちに、聞いてみないと。
+","
+ー それは、土星で作られたゲーム機。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
