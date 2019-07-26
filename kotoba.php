@@ -1811,6 +1811,13 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 （<a href=\"https://www.nicovideo.jp/watch/sm6281614\">セガサターン流星群</a> / さんにえ）
 ","
 ー レイディアント・シルバーバレット。
+","
+弱き旅人よ 引き返すがいい
+倒れてしまう前に
+それでも お前は行くと言うのか
+遠い空の向こうまで
+
+（Venus Say… / 作詞：新藤晴一 / 作曲: 上田ケンジ / 歌：Buzy）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
