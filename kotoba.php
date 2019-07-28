@@ -1818,6 +1818,12 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 遠い空の向こうまで
 
 （Venus Say… / 作詞：新藤晴一 / 作曲: 上田ケンジ / 歌：Buzy）
+","
+私が与えた 運命のもとで
+おとなしくしてればいいのに
+Do you know？ I'm a Venus
+
+（Venus Say… / 作詞：新藤晴一 / 作曲: 上田ケンジ / 歌：Buzy）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
