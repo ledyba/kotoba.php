@@ -1811,6 +1811,8 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 （<a href=\"https://www.nicovideo.jp/watch/sm6281614\">セガサターン流星群</a> / さんにえ）
 ","
 ー レイディアント・シルバーバレット。
+","
+ー 本当は魔女なんだけどなぁ。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
