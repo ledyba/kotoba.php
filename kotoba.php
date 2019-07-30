@@ -1840,6 +1840,8 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 Do you know？ I'm a Venus
 
 （Venus Say… / 作詞：新藤晴一 / 作曲: 上田ケンジ / 歌：Buzy）
+","
+ー 名も無きドラゴンと、あの空の向こうまで。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
