@@ -1849,6 +1849,8 @@ Do you know？ I'm a Venus
 ","
 ー 名も無きドラゴンと、あの空の向こうまで。
 ","
+ー 名も無き狼と、あの空の向こうまで。
+","
 ー いつか見とれた、あの空の向こうまで。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
