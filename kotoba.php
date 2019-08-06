@@ -1867,6 +1867,10 @@ Do you know？ I'm a Venus
 ー 名も無き狼と、あの空の向こうまで。
 ","
 ー いつか見とれた、あの空の向こうまで。
+","
+ー 昼と夜が、とけあうところ。
+","
+ー 甘くて、白い、綿の花。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
