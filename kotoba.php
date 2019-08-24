@@ -1700,7 +1700,7 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 「死を受け入れるのです」
 「…これで終わりなのか…」
 「さぁ、死を受け入れなさい」
-「・・わかった・・だがその前に 飛びたい！この空を忘れないように…」
+「‥わかった‥だがその前に 飛びたい！この空を忘れないように…」
 「では、行きなさい あなたの空に」
 
 （<a href=\"https://www.youtube.com/watch?v=qQ3NXPMl2gw\">「怒首領蜂最大往生」 PV</a> / CAVE）
@@ -1711,7 +1711,7 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 今日は誰と出会えるかな〜
 運命試したいよ〜♪
 
-（<a href=\"https://www.youtube.com/watch?v=QROqQSGMlZk\">【プリンセスコネクト！Re:Dive】CM「替え歌」篇</a>）
+（<a href=\"https://twitter.com/priconne_redive/status/998452334274347009\">【プリンセスコネクト！Re:Dive】CM「替え歌」篇</a>）
 ","
 ……誰にも見つからないような場所に一人で、
 心を無にして、何にも干渉せず、また干渉もされずに、
@@ -1843,7 +1843,7 @@ DVDプレーヤーを買ってくれなかったからといって母親をバ�
 過ち繰り返して　人類またすぐ消滅さ
 石のような物体が　俺たちに問いかける
 
-（<a href=\"https://www.nicovideo.jp/watch/sm6281614\">セガサターン流星群</a> / さんにえ）
+（<a href=\"https://nico.ms/sm6281614?from=447\">セガサターン流星群</a> / さんにえ）
 ","
 ー レイディアント・シルバーバレット。
 ","
@@ -1871,6 +1871,8 @@ Do you know？ I'm a Venus
 ー 昼と夜が、とけあうところ。
 ","
 ー 甘くて、白い、綿の花。
+","
+ー これが地球人の夢かいな。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
