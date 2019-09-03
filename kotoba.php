@@ -1878,6 +1878,8 @@ Do you know？ I'm a Venus
 ー 甘くて、白い、綿の花。
 ","
 ー これが地球人の夢かいな。
+","
+ー 自由でありえた世界の亡霊。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
