@@ -1909,6 +1909,8 @@ Do you know？ I'm a Venus
 （「月光」 / 鬼束ちひろ）
 ","
 ー 机を見ても、効かない薬ばかり転がっている。
+","
+ー この空を、忘れないように。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
