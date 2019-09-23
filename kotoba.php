@@ -1911,6 +1911,8 @@ Do you know？ I'm a Venus
 ー 机を見ても、効かない薬ばかり転がっている。
 ","
 ー この空を、忘れないように。
+","
+ー 死ぬほど夢中になれる、死ぬほどどうでも良いもの。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
