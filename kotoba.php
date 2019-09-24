@@ -1913,6 +1913,11 @@ Do you know？ I'm a Venus
 ー この空を、忘れないように。
 ","
 ー 死ぬほど夢中になれる、死ぬほどどうでも良いもの。
+","
+「私は長いこと電話を所有してきたが、最近ではそれを使わない。しかも料金を納めねばならない。
+　使用しないのに、料金を払うということは悪い。だから、電話を廃止することになった」 
+
+（「二笑亭綺譚」 / 式場隆三郎 他）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
