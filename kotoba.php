@@ -1935,7 +1935,9 @@ Do you know？ I'm a Venus
 ","
 ー ２つの、大きな、お月さま。
 ","
+綺麗な時を閉じ込めて 湖の底に沈めたの
 
+（「星屑のインターリュード」 / 作詞: 林英樹 / 作曲: 佐藤純 / 歌: fhána）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
