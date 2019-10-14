@@ -1940,6 +1940,10 @@ Do you know？ I'm a Venus
 綺麗な時を閉じ込めて 湖の底に沈めたの
 
 （「星屑のインターリュード」 / 作詞: 林英樹 / 作曲: 佐藤純 / 歌: fhána）
+","
+西暦2164年、かつてアジアと呼ばれた場所
+
+（R-TYPE⊿ / IREM SOFTWARE ENGINEERING）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
