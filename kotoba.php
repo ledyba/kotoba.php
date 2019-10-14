@@ -1944,6 +1944,10 @@ Do you know？ I'm a Venus
 西暦2164年、かつてアジアと呼ばれた場所
 
 （R-TYPE⊿ / IREM SOFTWARE ENGINEERING）
+","
+「あのカエル、友達なのか？」
+
+（ソニック・アドベンチャー / SEGA）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
