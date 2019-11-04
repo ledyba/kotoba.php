@@ -1948,6 +1948,14 @@ Do you know？ I'm a Venus
 「あのカエル、友達なのか？」
 
 （ソニック・アドベンチャー / SEGA）
+","
+─幸せを願うと、つらいんだもの。
+
+（Karous-The Beast of Re:Eden- / クロン）
+","
+―確かなのは、この世界が地獄だということだけ。
+
+（Karous-The Beast of Re:Eden- / クロン）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
