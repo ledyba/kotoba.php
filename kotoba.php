@@ -1956,6 +1956,11 @@ Do you know？ I'm a Venus
 ―確かなのは、この世界が地獄だということだけ。
 
 （Karous-The Beast of Re:Eden- / クロン）
+","
+未開社会の特徴である集団全体としての「将来への気づかいの欠如」と「浪費性」は、真の豊かさのしるしなのである。
+われわれの方には豊かさの記号しかない。
+
+（『消費社会の神話と構造』 / ジャン・ボードリヤール）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
