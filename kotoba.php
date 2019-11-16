@@ -716,6 +716,9 @@ $str = array(
 
 （PS VITA「ご注文はうさぎですか？？ Wonderful party！」）
 ","
+呪う時は、前もって言うから安心して。
+
+（PS VITA「ご注文はうさぎですか？？ Wonderful party！」）","
 県の偉い人「うどんの文化だけは、絶やしてはならない…」
 
 （結城友奈は勇者である Blu-ray Vol.1 特典ゲーム）
