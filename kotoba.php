@@ -2014,6 +2014,8 @@ Do you know？ I'm a Venus
 この後はただ生前の俳諧を忘れんとのみ思うはと、返す返す悔やみ申されし也。
 
 （松尾芭蕉）
+","
+ー 640ピクセル先の未来しか視えない。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
