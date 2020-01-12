@@ -1072,6 +1072,10 @@ world-class experts, easygoing guys, and very stable team.
 
 （ひなろじ〜form Luck &amp; Logic〜 第04話 恩を花で返す）
 ","
+本サイトは閉鎖となりますが、皆さんの心の中にいつまでもピラリ学園がありますように。
+
+（<a href=\"http://hinalogic.com/news/\">ひなろじ〜form Luck &amp; Logic〜 「サイト閉鎖のお知らせ」</a>）
+","
 「しあわあせの色は どんな色？
 　かえりみち　空に聞いてみる」
 「お星様一つ輝いた
