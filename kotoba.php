@@ -2107,6 +2107,10 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 そんな薄っぺらくてぱっと見が美しいだけの言語を扱いたいですか？
 
 （Effective Modern  C++ / Scott Meyers　著 /  千住 治郎　訳）
+","
+隣のレジは、早い。
+
+（延立寺（浄土真宗本願寺派・東京都八王子市））
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
