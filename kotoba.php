@@ -2148,6 +2148,11 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 「堂々と生きろ！」
 
 （トラブル☆ウィッチーズ Origin, シエス / スタジオ・シエスタ）
+","
+「永遠は無ぇぜ！」
+「ダッタラ　イマヲ　イキルンダ」
+
+（トラブル☆ウィッチーズ Origin, シエス / スタジオ・シエスタ）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
