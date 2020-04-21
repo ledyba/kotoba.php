@@ -2140,6 +2140,14 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 「話し合えば、また悪者にされる！」
 
 （結城友奈は勇者である / 第一話 「乙女の真心」（劇中劇））
+","
+「死ぬまで意地を張れ！」
+
+（トラブル☆ウィッチーズ Origin, シエス / スタジオ・シエスタ）
+","
+「堂々と生きろ！」
+
+（トラブル☆ウィッチーズ Origin, シエス / スタジオ・シエスタ）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
