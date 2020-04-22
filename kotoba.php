@@ -2185,6 +2185,10 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 ―今日の遺書をいただきました。
 
 「遺書を書くのもめんどくさい」
+","
+―今日の遺書をいただきました。
+
+「残機が無くなった。ゲームオーバーです。」
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
