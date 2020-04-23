@@ -2193,6 +2193,10 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 ―今日の遺書をいただきました。
 
 「もう誰かが書いただろうから、自分で書く必要はないかな」
+","
+―世界は25mgの粒でできている。
+","
+―生まれた時点でもう駄目なんで、諦めてもらっていいですか。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
