@@ -2227,6 +2227,20 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 　どうして人間ってこんな無駄なことばっかりやるのかしら。」
 
 （ダンタリアンの書架 / 第六話 「焚書官」）
+","
+幸せも残り僅かだ
+
+明日も朝から隣町へと余生を売りにゆこう
+
+（ハッピーライフ feat. nicamoq / 作詞・作曲 Yunomi / 歌 nicamoq）
+","
+鏡よ鏡 この国で一番不幸な子だあれ
+
+きっと気付いてる
+
+僕だってとりわけ不幸でもない
+
+（ハッピーライフ feat. nicamoq / 作詞・作曲 Yunomi / 歌 nicamoq）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
