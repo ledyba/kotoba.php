@@ -2,4 +2,4 @@
 
 sync:
 	git push
-	ssh 7io.org "cd /opt/books/lunar/www/app/kotoba.php && git pull --rebase"
+	ssh 7io.org 'git -C "~/umi/src/github.com/ledyba/kotoba.php" pull --rebase'
