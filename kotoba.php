@@ -2241,6 +2241,10 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 僕だってとりわけ不幸でもない
 
 （ハッピーライフ feat. nicamoq / 作詞・作曲 Yunomi / 歌 nicamoq）
+","
+結局（ペイント）ソフトって、アナログ画材のエミュレータなんですよね。
+
+（岡崎武志 / 絵師100人展 10周年記念本）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
