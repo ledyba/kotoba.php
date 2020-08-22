@@ -2281,6 +2281,10 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 初めては何回目までだろ？　そんなの一回目だけです！
 
 （初めてガールズ / 作詞：畑亜貴・作曲・編曲：ミト / 歌：Ray or 一年藤組（小澤亜李、井澤美香子、M・A・O、村川梨衣） ）
+","
+ここじゃない気がしますよね、なんかこう‥死ぬべきところって。
+
+（唐澤貴洋 / 「<a href=\"https://nico.ms/sm37395480?from=816\">唐澤貴洋のゲーム実況 オバ犬の手も借りたいベルトコンベア地獄</a>」）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
