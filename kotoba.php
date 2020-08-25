@@ -2285,6 +2285,8 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 ここじゃない気がしますよね、なんかこう‥死ぬべきところって。
 
 （唐澤貴洋 / 「<a href=\"https://nico.ms/sm37395480?from=816\">唐澤貴洋のゲーム実況 オバ犬の手も借りたいベルトコンベア地獄</a>」）
+","
+―おじさんの顔が右下に写ってるゲームの映像に「西日が眩しそう」ってコメントを書くの、ノスタルジーが過ぎない？
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
