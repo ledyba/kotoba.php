@@ -2297,6 +2297,10 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 ―すてきな物語を、紡げたら。
 ","
 ―すてきな物語って、なんだろう。
+","
+私は、ブドウを透明水彩で描くのが食べるより好きです。
+
+（醍醐芳晴 / こう描けば絵は上手くなる）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
