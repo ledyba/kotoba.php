@@ -2301,6 +2301,22 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 私は、ブドウを透明水彩で描くのが食べるより好きです。
 
 （醍醐芳晴 / こう描けば絵は上手くなる）
+","
+「このゲームにおいて人の言うことを聞くことは大事です」
+「大事だね」
+「聞いてはいるし、画面は見てるんだけどさ…」
+
+（<a href=\"https://youtu.be/iBi3_IkNCmg?t=2097\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+","
+「こんなの面白い？こういうゲーム？」
+「いやぁ、見てる分には面白いｗ」
+「そうそう、こうやって、やっぱね、誰かの仕事が、誰かを笑顔にしてる」
+
+（<a href=\"https://youtu.be/iBi3_IkNCmg?t=2180\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+","
+「お前、ガンダムの世界にいるんだよ今」
+
+（<a href=\"https://youtu.be/iBi3_IkNCmg?t=2232\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
