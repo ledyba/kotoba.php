@@ -2327,6 +2327,18 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 「みんなも覚えてくださいね、これね。『核爆発の前には、盾を張る』」
 
 （<a href=\"https://youtu.be/iBi3_IkNCmg?t=2643\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+","
+「まるで最初から、定めを知っているかのような…」
+
+（<a href=\"https://youtu.be/iBi3_IkNCmg?t=3595\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+","
+「問題はな、このムービーを強制的に毎回見せられて人生の無駄な時間…寿命をここで使う」
+
+（<a href=\"https://youtu.be/iBi3_IkNCmg?t=4345\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+","
+「これを見ても身になる事は何もないぞ！」
+
+（<a href=\"https://youtu.be/iBi3_IkNCmg?t=4417\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
