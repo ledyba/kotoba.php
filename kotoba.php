@@ -2293,6 +2293,10 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 あいてに　せなかは　みせられない！
 
 （ポケットモンスター 赤/緑）
+","
+―すてきな物語を、紡げたら。
+","
+―すてきな物語って、なんだろう。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
