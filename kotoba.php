@@ -2339,6 +2339,13 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 「これを見ても身になる事は何もないぞ！」
 
 （<a href=\"https://youtu.be/iBi3_IkNCmg?t=4417\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+","
+「攻略本見ながら…」
+「ダメ！だって攻略本って、それ答えじゃん！ダメです」
+「未来の手は自分の手で…」
+「掴まないとダメだよ！」
+
+（<a href=\"https://youtu.be/iBi3_IkNCmg?t=6133\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
