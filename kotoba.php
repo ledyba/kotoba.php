@@ -2324,7 +2324,7 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 
 （<a href=\"https://youtu.be/iBi3_IkNCmg?t=2232\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ","
-「みんなも覚えてくださいね、これね、『核爆発の前には、盾を張る』」
+「みんなも覚えてくださいね、これね。『核爆発の前には、盾を張る』」
 
 （<a href=\"https://youtu.be/iBi3_IkNCmg?t=2643\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ");
