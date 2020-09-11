@@ -2346,6 +2346,12 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 「掴まないとダメだよ！」
 
 （<a href=\"https://youtu.be/iBi3_IkNCmg?t=6133\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+","
+「分かる？今の俺の気持ち」
+「…わかる」
+「嘘つけお前にゃ分かんないだろ」
+
+（<a href=\"https://youtu.be/iwkNGgeRMLg?t=2116\">ゲーセンミカド24時間生配信　その5　AKIRA vs GUNDAM0079 2</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
