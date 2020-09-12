@@ -2352,6 +2352,11 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 「嘘つけお前にゃ分かんないだろ」
 
 （<a href=\"https://youtu.be/iwkNGgeRMLg?t=2116\">ゲーセンミカド24時間生配信　その5　AKIRA vs GUNDAM0079 2</a>）
+","
+「これを見るために起きてます！」
+「うるせぇ、寝ろ！」
+
+（<a href=\"https://youtu.be/iwkNGgeRMLg?t=2116\">ゲーセンミカド24時間生配信　その5　AKIRA vs GUNDAM0079 2</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
