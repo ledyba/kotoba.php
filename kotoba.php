@@ -2357,6 +2357,10 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 「うるせぇ、寝ろ！」
 
 （<a href=\"https://youtu.be/iwkNGgeRMLg?t=2116\">ゲーセンミカド24時間生配信　その5　AKIRA vs GUNDAM0079 2</a>）
+","
+「『金はミカドを救う』、はい、尤もでございます。そりゃ当然です。お金があれば99%の問題は片が付きますからね」
+
+（<a href=\"https://youtu.be/x1g9PI43R6w?t=632\">ゲーセンミカド24時間生配信　その14　AKIRA vs GUNDAM 0079 その3</a>）4
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
