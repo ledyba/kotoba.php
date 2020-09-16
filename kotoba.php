@@ -918,7 +918,7 @@ $str = array(
 
 （「SWAN」 / group_inou）
 ","
-それは静かな視覚の奥の話
+そこは静かな視覚の奥の話
 
 （「EYE」 / group_inou）
 ","
