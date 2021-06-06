@@ -2597,6 +2597,9 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 それでも遊ぼうとする人も、昔はそれなりにいんだ。
 
 今じゃ考えられないけどね。
+","
+青空を突き抜ける、
+幾千本もの光の矢
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
