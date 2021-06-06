@@ -2586,6 +2586,12 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 冥界へようこそ！
 
 （「まもるクンは呪われてしまった！　XBOX 360版キャッチコピー）
+","
+壊れたのは　ヤだけど
+すんなり行くのも　つまんない
+トラブルマシンに　ときめくの
+
+（「ときめきオーバークロック」 / 作曲・作詞 田中敬一）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
