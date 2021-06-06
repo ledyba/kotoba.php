@@ -2576,6 +2576,16 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 楽しくないかもしれないけど…。
 
 （坂本慎太郎 / <a href=\"https://realsound.jp/2014/05/post-587_3.html\">リアルサウンド</a>）
+","
+人を呪わば、
+　　弾百発。
+
+（「まもるクンは呪われてしまった！　アーケード版キャッチコピー）
+","
+ハーイ、皆さん～！
+冥界へようこそ！
+
+（「まもるクンは呪われてしまった！　XBOX 360版キャッチコピー）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
