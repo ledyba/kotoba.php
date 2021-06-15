@@ -2610,6 +2610,10 @@ artistとしてプロになってから，作品が堕落するのはよく見�
 だから，仕事は仕事として，「感情無菌状態」にして，勤務時間内だけ，そこで黙々と業務をこなしてください。本来の仕事は，私の好きな高田純次師匠のように「五時から男」でまっとうして下さい。
 
 <a href=\"http://blog.livedoor.jp/gekiryo/archives/1015951132.html\">人間関係の悩み　第一話　スキゾイドのすすめ : 逆旅</a>
+","
+倫理は弱いようですが、人々の共通規範となると強いのです。
+
+(月間住職 2021年02月号 / 「色即是空 科学事始め」 池内了)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
