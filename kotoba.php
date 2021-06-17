@@ -2619,6 +2619,10 @@ artistとしてプロになってから，作品が堕落するのはよく見�
 人は決して、その子どものために子どもを持つはずはないのである。
 
 (生まれてこないほうが良かった / デイヴィッド・ベネター 2006)
+","
+規約は、役立つと思える場合のみ従いましょう。
+
+(SQLアンチパターン /Bill Karvin著 児島 修 訳 2013)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
