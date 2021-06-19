@@ -2628,6 +2628,10 @@ artistとしてプロになってから，作品が堕落するのはよく見�
 しかし、そのような単純な法則は存在しません。
 
 (SQLアンチパターン /Bill Karvin著 児島 修 訳 2013)
+","
+とはいえ、ある方法が別のものよりも優れていると仮定するのではなく、複数種類のクエリのパフォーマンスを実際に測定することが大切です。
+
+(SQLアンチパターン /Bill Karvin著 児島 修 訳 2013)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
