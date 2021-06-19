@@ -2623,6 +2623,11 @@ artistとしてプロになってから，作品が堕落するのはよく見�
 規約は、役立つと思える場合のみ従いましょう。
 
 (SQLアンチパターン /Bill Karvin著 児島 修 訳 2013)
+","
+多くの開発者は、パフォーマンス改善に役立つ万能薬を探しています。
+しかし、そのような単純な法則は存在しません。
+
+(SQLアンチパターン /Bill Karvin著 児島 修 訳 2013)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
