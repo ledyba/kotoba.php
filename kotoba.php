@@ -2645,6 +2645,14 @@ artistとしてプロになってから，作品が堕落するのはよく見�
 あなたが読み取れるものは、攻撃者にも読み取れます。
 
 (SQLアンチパターン / Bill Karvin 著 児島 修 訳 2013)
+","
+解決策：誰も信用してはならない
+
+(SQLアンチパターン / Bill Karvin 著 児島 修 訳 2013)
+","
+ユーザーには、値の入力は許可しても、コードの入力を許可してはいけません。
+
+(SQLアンチパターン / Bill Karvin 著 児島 修 訳 2013)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
