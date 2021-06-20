@@ -2641,6 +2641,10 @@ artistとしてプロになってから，作品が堕落するのはよく見�
 アプリケーションが正当な目的でパスワードを読み取れるということは、攻撃者が不当にパスワードを読み取れることも意味するのです。
 
 (SQLアンチパターン / Bill Karvin 著 児島 修 訳 2013)
+","
+あなたが読み取れるものは、攻撃者にも読み取れます。
+
+(SQLアンチパターン / Bill Karvin 著 児島 修 訳 2013)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
