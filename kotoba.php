@@ -2662,6 +2662,11 @@ artistとしてプロになってから，作品が堕落するのはよく見�
 ユーザーには、値の入力は許可しても、コードの入力を許可してはいけません。
 
 (SQLアンチパターン / Bill Karvin 著 児島 修 訳 2013)
+","
+「まぁ道路があるってことは、そこに戦車が…」
+「現れる」
+
+<a href=\"https://youtu.be/1Lyp6l21sFs?t=855\">【春のシューティング祭り】hamami vs『ガンネイル』20210327</a>
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
