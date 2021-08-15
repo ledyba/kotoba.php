@@ -2667,6 +2667,11 @@ artistとしてプロになってから，作品が堕落するのはよく見�
 「現れる」
 
 <a href=\"https://youtu.be/1Lyp6l21sFs?t=855\">【春のシューティング祭り】hamami vs『ガンネイル』20210327</a>
+","
+友達と遊んでるのって、すごい虚無な感じがして。
+休みになりました、友達とカラオケに行きました、すごく楽しかったね、次の日から同じ月曜日……と繰り返されるのが虚無な感じがしたんです。
+
+<a href=\"https://nlab.itmedia.co.jp/nl/articles/1801/10/news148_3.html\">かわいいは心のATフィールドを取り払う　「バーチャルのじゃロリ狐娘YouTuberおじさん」</a>
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
