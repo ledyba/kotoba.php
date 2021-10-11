@@ -2672,6 +2672,15 @@ artistとしてプロになってから，作品が堕落するのはよく見�
 休みになりました、友達とカラオケに行きました、すごく楽しかったね、次の日から同じ月曜日……と繰り返されるのが虚無な感じがしたんです。
 
 <a href=\"https://nlab.itmedia.co.jp/nl/articles/1801/10/news148_3.html\">かわいいは心のATフィールドを取り払う　「バーチャルのじゃロリ狐娘YouTuberおじさん」</a>
+","
+  TO
+ESCAPE
+
+ FROM
+ OUR
+UTOPIA
+
+(<a href=\"https://www.youtube.com/watch?v=gOE8A4UmmNs\">「ザンファイン」 OP</a>, SUCCESS 2000)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
