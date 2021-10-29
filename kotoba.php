@@ -2681,6 +2681,9 @@ ESCAPE
 UTOPIA
 
 (<a href=\"https://www.youtube.com/watch?v=gOE8A4UmmNs\">「ザンファイン」 OP</a>, SUCCESS 2000)
+","
+でっかく生きろよ　男なら
+横道逸れても　真っしぐら
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
