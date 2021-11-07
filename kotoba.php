@@ -2740,6 +2740,10 @@ UTOPIA
 ","
 でっかく生きろよ　男なら
 横道逸れても　真っしぐら
+","
+「VRで美少女になるなんてちっぽけな話じゃなくて、もっと大きな話をしよう。
+　もし、この世界のどんな人にでもなれるとしたら、お前は誰になりたい？
+　どの人生を送りたい？」
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
