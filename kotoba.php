@@ -2787,6 +2787,10 @@ UTOPIA
 「VRで美少女になるなんてちっぽけな話じゃなくて、もっと大きな話をしよう。
 　もし、この世界のどんな人にでもなれるとしたら、お前は誰になりたい？
 　どの人生を送りたい？」
+","
+君が道に迷うときは　僕が先を歩くよ
+
+（True blue / 作詞 町田紀彦 / 作曲 作曲：吉松隆、町田紀彦 / 歌 ZONE）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
