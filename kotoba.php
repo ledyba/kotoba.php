@@ -2801,6 +2801,8 @@ UTOPIA
 君が道に迷うときは　僕が先を歩くよ
 
 （True blue / 作詞 町田紀彦 / 作曲 作曲：吉松隆、町田紀彦 / 歌 ZONE）
+","
+ー 剥き出しの歯車。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
