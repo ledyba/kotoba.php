@@ -2803,6 +2803,10 @@ UTOPIA
 （True blue / 作詞 町田紀彦 / 作曲 作曲：吉松隆、町田紀彦 / 歌 ZONE）
 ","
 ー 剥き出しの歯車。
+","
+理論的な「保証」はそのまま受け取らない方が賢明なのは、世の中の常なのです。
+
+(データ指向アプリケーションデザイン / Martin Kleppmann 著 / 玉川 竜司 訳)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
