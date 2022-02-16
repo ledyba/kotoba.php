@@ -2818,6 +2818,12 @@ UTOPIA
 自分で作ってみて初めて「あれ、ここどうやって作ったら良いんだろう」とか
 
 （<a href=\"https://youtu.be/PtYzmfzJuLI?t=951\">CGアーティスト 榊原寛</a>）
+","
+ゲームって「限られた処理」をそれぞれのチームが取り合うんで、
+すごい細かいちゃんとした処理って、
+いちばん大事なところにしか使わせてくれないんですね。
+
+（<a href=\"https://youtu.be/6T6qlQbgGbM?t=865\">CGアーティスト 榊原寛</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
