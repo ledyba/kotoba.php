@@ -2828,6 +2828,11 @@ UTOPIA
 いろんな簡略化があって、「それをどうやって見せないようにするのか」っていうのが…。
 
 （<a href=\"https://youtu.be/6T6qlQbgGbM?t=865\">CGアーティスト 榊原寛</a>）
+","
+これがアキバのジャンク屋だ！
+このジャンクから夢や希望を抱くことができる人求む！
+
+(<a href=\"http://niga2.sytes.net/msx/XVkai.html\">秋葉原最終処分場のMSX2+基板を弄る　前編</a>)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
