@@ -2833,6 +2833,8 @@ UTOPIA
 このジャンクから夢や希望を抱くことができる人求む！
 
 (<a href=\"http://niga2.sytes.net/msx/XVkai.html\">秋葉原最終処分場のMSX2+基板を弄る　前編</a>)
+","
+ー 表現を積み重ねれば積み重ねるほど、そこから何かが零れ落ちていく。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
