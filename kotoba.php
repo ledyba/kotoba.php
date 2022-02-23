@@ -2839,6 +2839,8 @@ UTOPIA
 ー 現実が5種類ぐらい見える。
 ","
 ー 現実が5種類ぐらい見える。これがどれかわからない。
+","
+ー インチキ使いの弟子入り修行、インチキ使い免許皆伝。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
