@@ -2893,6 +2893,10 @@ UTOPIA
 「ゲームの上澄みだけ啜れる、みたいなところある」
 
 （<a href=\"https://youtu.be/G8gs7KHwM0g?t=3675\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
+","
+「生きてれば、正解ですから。大丈夫ですよ」
+
+（<a href=\"https://youtu.be/G8gs7KHwM0g?t=4455\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
