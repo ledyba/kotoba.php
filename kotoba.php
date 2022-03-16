@@ -2897,6 +2897,10 @@ UTOPIA
 「生きてれば、正解ですから。大丈夫ですよ」
 
 （<a href=\"https://youtu.be/G8gs7KHwM0g?t=4455\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
+","
+「『いつも通り』がどれだけ難しいか」
+
+（<a href=\"https://youtu.be/G8gs7KHwM0g?t=4510\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
