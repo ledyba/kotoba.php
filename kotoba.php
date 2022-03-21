@@ -2920,6 +2920,10 @@ UTOPIA
 かつては有益なデータを表示してくれたウェブサイトたちが、今じゃポンチ絵みたいになってしまいました。
 
 （<a href=\"https://clavis.info/wiki/the_website_obesity_crisis\">ウェブサイトのぜい肉危機（2015）</a>）
+","
+vaporwaveはpopを意識した、ある種のパロディで、決して大衆にアピールしようとしたことはないのだ。そのことには私たちの検証は必要ない。それはカウンターカルチャーのどんなものにも当てはまることだからだ。つまり、多くの人々が受け入れるようになると、物事の真偽に対するその主張が薄められてしまうのである。無理に大衆にアピールする形にしようとすることは、その存在意義を薄めてしまうのだ。
+
+（<a href=\"https://ameblo.jp/chocolat-et-framboise/entry-12327867187.html\">vaporwaveがどのようにしてインターネットで作られ、そして、壊されたか。</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
