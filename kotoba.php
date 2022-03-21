@@ -2906,6 +2906,10 @@ UTOPIA
 明日の青い空　今日と違う
 
 （NEO SKY, NEO MAP! / 畑亜貴）
+","
+ー 真っ暗な、星が見える海。
+","
+ー 睡眠欲、創作欲、ぼんやり欲。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
