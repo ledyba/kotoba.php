@@ -2924,6 +2924,9 @@ UTOPIA
 vaporwaveはpopを意識した、ある種のパロディで、決して大衆にアピールしようとしたことはないのだ。そのことには私たちの検証は必要ない。それはカウンターカルチャーのどんなものにも当てはまることだからだ。つまり、多くの人々が受け入れるようになると、物事の真偽に対するその主張が薄められてしまうのである。無理に大衆にアピールする形にしようとすることは、その存在意義を薄めてしまうのだ。
 
 （<a href=\"https://ameblo.jp/chocolat-et-framboise/entry-12327867187.html\">vaporwaveがどのようにしてインターネットで作られ、そして、壊されたか。</a>）
+","
+ゴルフ・クラブの待合室でかかる音楽、教則本にあるようなBGM、ぞっとするようなハイパーモダンなオフィス・ビルディングの受付で流れている音楽をかき集めて、ファッキン清潔なオフィス街の机に並んだPCから高解像度の毒を吐くことができるだろうか。
+（<a href=\"http://www.ele-king.net/review/sound_patrol/002413/\">[Vaporwave] - INTERNET CLUB - VANISHING VISION</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
