@@ -2901,6 +2901,11 @@ UTOPIA
 「『いつも通り』がどれだけ難しいか」
 
 （<a href=\"https://youtu.be/G8gs7KHwM0g?t=4510\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
+","
+今日の青い空は昨日と違う
+明日の青い空今日と違う
+
+（NEO SKY, NEO MAP! / 畑亜貴）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
