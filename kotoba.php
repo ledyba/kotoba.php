@@ -2926,7 +2926,12 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 （<a href=\"https://ameblo.jp/chocolat-et-framboise/entry-12327867187.html\">vaporwaveがどのようにしてインターネットで作られ、そして、壊されたか。</a>）
 ","
 ゴルフ・クラブの待合室でかかる音楽、教則本にあるようなBGM、ぞっとするようなハイパーモダンなオフィス・ビルディングの受付で流れている音楽をかき集めて、ファッキン清潔なオフィス街の机に並んだPCから高解像度の毒を吐くことができるだろうか。
+
 （<a href=\"http://www.ele-king.net/review/sound_patrol/002413/\">[Vaporwave] - INTERNET CLUB - VANISHING VISION</a>）
+","
+老人ホームってボケ防止のために「き～ら～き～ら～ひ～か～る」とか子どもの歌を歌わせたりするみたいですけど、やっぱりあれも「俺は○○商事の専務までやった男だぞ」とか思う心と「でもここで事を荒立てたら頑張ってるスタッフさんに申し訳ないし」と思う心が衝突しながら「き～ら～き～ら～ひ～か～る」とかクッソ冷めた心で歌ってるんじゃないかと思うんですよね。
+
+（<a href=\"https://siusiu.hatenablog.jp/entry/2018/05/13/220121\">生涯を添い遂げるゲームはありますか - 当たり判定ゼロ</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
