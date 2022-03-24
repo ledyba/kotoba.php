@@ -2936,6 +2936,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 それはね、「希望」という麻薬だよ。
 
 （とあるつぶやきサイトで）
+","
+すべての定義は使用する目的によって有用であるかどうかが変わる。
+
+<a href=\"https://newsphere.jp/cryptocurrency/20220322-2/\">ビットコインが宗教と呼ばれる理由</a>
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
