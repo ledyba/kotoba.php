@@ -2956,6 +2956,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 ぼくが死ぬまでに出してくれればそれでいいので。
 
 （<a href=\"https://youtu.be/Zu8mDh5bcjk?t=743\">春のシューティング祭2022　Knight2k vs グラディウスV　20220410</a>）
+","
+記憶のある方は、記憶を無くして、楽しんでいただければなと
+
+（<a href=\"https://youtu.be/Zu8mDh5bcjk?t=1584\">春のシューティング祭2022　Knight2k vs グラディウスV　20220410</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
