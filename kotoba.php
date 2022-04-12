@@ -2951,6 +2951,11 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 すべての定義は使用する目的によって有用であるかどうかが変わる。
 
 <a href=\"https://newsphere.jp/cryptocurrency/20220322-2/\">ビットコインが宗教と呼ばれる理由</a>
+","
+（グラディウスⅥは）今からでも遅くないですよ。
+ぼくが死ぬまでに出してくれればそれでいいので。
+
+（<a href=\"https://youtu.be/Zu8mDh5bcjk?t=743\">春のシューティング祭2022　Knight2k vs グラディウスV　20220410</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
