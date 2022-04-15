@@ -2960,6 +2960,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 記憶のある方は、記憶を無くして、楽しんでいただければなと
 
 （<a href=\"https://youtu.be/Zu8mDh5bcjk?t=1584\">春のシューティング祭2022　Knight2k vs グラディウスV　20220410</a>）
+","
+「些細なことでもいい。違和感を見つけ出すの。」
+
+（RELEASE THE SPYCE EPISODE:09 ディスティニー・サークル）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
