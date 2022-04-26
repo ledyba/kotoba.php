@@ -2964,6 +2964,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 「些細なことでもいい。違和感を見つけ出すの。」
 
 （RELEASE THE SPYCE EPISODE:09 ディスティニー・サークル）
+","
+「NEW GAME!」は人間関係を描きたいとずっと思っているんです。ゲーム会社って、ただでさえ労働時間が長くてきついところですから、せめて人間関係が良ければ仕事も楽しいんじゃないかなと。
+
+（まんがタイムきらら展 図録 / 得能正太郎 インタビュー）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
