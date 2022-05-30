@@ -2976,6 +2976,54 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 痛むべし
 
 （とあるお寺）
+","
+猫に小判というが
+あわれ人間は
+その小判に目がくらむ
+
+(<a href=\"http://www.winpal.net/~341-2/tera-no-kenjiban/keijibann-2001.html\">等運寺</a\>)
+","
+飯を食うのではない
+ご飯をいただくのです
+
+(<a href=\"http://www.winpal.net/~341-2/tera-no-kenjiban/keijibann-2001.html\">等運寺</a\>)
+","
+いいこといっぱいあるのに
+忘れてしまうんだ
+
+(<a href=\"http://www.winpal.net/~341-2/tera-no-kenjiban/keijibann-2001.html\">等運寺</a\>)
+","
+この世にもし
+無限ということが
+ただ一つ存在するならば
+それは欲望である
+
+(<a href=\"http://www.winpal.net/~341-2/tera-no-kenjiban/keijibann-2001.html\">等運寺</a\>)
+","
+自己を深くみつめる人ほど
+自己の罪悪を知る　　　（哲学者・西田幾太郎）
+
+(<a href=\"http://www.winpal.net/~341-2/tera-no-kenjiban/keijibann-2001.html\">等運寺</a\>)
+","
+生に保障はなく　死に予告はない
+
+(<a href=\"http://www.winpal.net/~341-2/tera-no-kenjiban/keijibann-2001.html\">等運寺</a\>)
+","
+病気になっても　病人になるな　（藤元正樹）
+
+(<a href=\"http://www.winpal.net/~341-2/tera-no-kenjiban/keijibann-2001.html\">等運寺</a\>)
+","
+他人の悪口はおもしろい
+なぜなら自分だけは違うと思っているからだ
+
+(<a href=\"http://www.winpal.net/~341-2/tera-no-kenjiban/keijibann-2001.html\">等運寺</a\>)
+","
+パチンコしながら
+バナナ食べてるおっちゃん
+中身捨てて
+バナナの皮食べとった　　（大阪・小学生）
+
+(<a href=\"http://www.winpal.net/~341-2/tera-no-kenjiban/keijibann-2001.html\">等運寺</a\>)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
