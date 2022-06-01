@@ -267,6 +267,13 @@ $str = array(
 
 （「Karous カラス」/マイルストーン）
 ","
+死に至る病気っていっぱいあるよね。 
+
+自分は、どれにもかからない、 
+って言い切れる？
+
+（「Karous カラス」/マイルストーン）
+","
 我が駆るは、天翔る鉄騎兵
 
 （「アンダーディフィート」/G.Rev）
@@ -3028,6 +3035,9 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 バナナの皮食べとった　　（大阪・小学生）
 
 (<a href=\"http://www.winpal.net/~341-2/tera-no-kenjiban/keijibann-2001.html\">等運寺</a\>)
+","
+誰も愛す必要はない。
+誰もかもを愛しているかのように振る舞うだけでいい。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
