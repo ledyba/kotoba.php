@@ -3078,6 +3078,8 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 「障碍者」と名付けてる時点でフェアではない
 
 （とある掲示板）
+","
+「希望」という鼻先にぶら下げられた人参を死ぬまで追いかける、「充実した人生」。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
