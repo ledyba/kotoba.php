@@ -3073,6 +3073,11 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 同じ人がそうなるわけだから、状態なの。機械なら「これはこうだ」と言えるけれど、人間の場合は、一人の人をとってみても、状態が変わっていくわけです。
 
 （<a href=\"https://www.onecareer.jp/articles/2449\">中村桂子</a>, 生物学者）
+","
+健常者が徒党を組んで枠組みを作って
+「障碍者」と名付けてる時点でフェアではない
+
+（とある掲示板）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
