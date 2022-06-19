@@ -274,6 +274,73 @@ $str = array(
 
 （「Karous カラス」/マイルストーン）
 ","
+状況は深刻だな。 
+ヒトとの間に平和はあり得ないのか…。 
+おれはさ、何も難しい事をしようって 
+言ってるんじゃないんだよ。 
+最初から、こうではなかっただろう？
+
+（「Karous カラス」/マイルストーン）
+","
+生きるという事が最大の不幸。
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
+建造物の前に群れる生き物。
+時は早朝。
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
+ぽーん、って、
+３．２．１．で消えちゃいたい。
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
+全てを忘れる為の最強の手段といえば？
+『寝る』
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
+確かなのは…
+この世界が、地獄だという事だけだ。
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
+一つのことに没頭するには、
+ものが溢れすぎている
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
+うん、そう、パターン化は力。
+鳥頭じゃ屠畜待ちだから、きっと。
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
+誰か、俺を動かしてくれ
+動かし方は、任せるから
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
+ねえ、いま、なにしてる？
+ねえ、ちゃんとしてる？息してる？ハァ
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
+家から出ないほうがむしろ
+世の中の事がよく見えるんじゃない？
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
+このメールを今日中に誰かに送らないと
+あなたは幸運になってしまいます
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
+それは…目的が善だったら、
+道徳を曲げてもいいの？
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
 我が駆るは、天翔る鉄騎兵
 
 （「アンダーディフィート」/G.Rev）
