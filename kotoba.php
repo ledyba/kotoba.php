@@ -3179,6 +3179,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 （とある掲示板）
 ","
 「希望」という鼻先にぶら下げられた人参を死ぬまで追いかける、「充実した人生」。
+","
+信者と書いて儲けると読む❗️
+
+（とあるフリーマーケットサイトのコメント欄、カルト宗教の高額な開運アイテムについて）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
