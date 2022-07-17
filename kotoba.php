@@ -3195,6 +3195,8 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 このように大きな話をぶちあげ、それと繋がれる感覚を持たせる手法はモチベーションを上げる際には非常に効果的である。
 
 とある新しい政党の演説について
+","
+ー 鳥居を超えた、その向こう。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
