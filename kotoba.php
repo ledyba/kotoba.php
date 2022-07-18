@@ -3209,6 +3209,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 ","
 やりたいことが多すぎて
 今日は何に時間を使おう
+","
+悪魔の多くは信者無くなった神様だしなあｗｗｗ
+
+（とある漫画へのコメント）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
