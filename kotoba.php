@@ -3206,6 +3206,9 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 　だからこれは攻撃でもなく宣戦布告でもなく…私を産んだお前たちへの逆襲だ！」
 
 （ミュウツーの逆襲, 1998）
+","
+やりたいことが多すぎて
+今日は何に時間を使おう
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
