@@ -3221,6 +3221,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 そんな疑問に、今答える。
 
 （ドラえもん のび太の魔界大冒険 予告 / 1984年）
+","
+万能だということは、何も答えていない証拠である。
+
+（論理学をつくる, 戸田山 和久）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
