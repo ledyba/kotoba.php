@@ -3225,6 +3225,8 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 万能だということは、何も答えていない証拠である。
 
 （論理学をつくる, 戸田山 和久）
+","
+ー 夏を駆ける。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
