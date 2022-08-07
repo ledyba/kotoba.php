@@ -3347,6 +3347,14 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 （<a href=\"https://youtu.be/HCTQNJu8OhE?t=3858\">納涼クォータニオン夏祭り</a>, 安原 祐二）
 ","
 ー 光輝き周囲を飛び交う、十二もの精霊。
+","
+しかし、すべての人の心に軽く入っていく教えというのは、じつは何も言っていないのと同じです。
+
+（集中講義　大乗仏教 / 佐々木閑）
+","
+聞けば心地よくて一時的な気休めにはなるのですが、そこには人を救う力はありません。
+
+（集中講義　大乗仏教 / 佐々木閑）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
