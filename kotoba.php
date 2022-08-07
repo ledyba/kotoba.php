@@ -3345,6 +3345,8 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 っていうのが、中二心をくすぐるというか、おもしろいなと思うんですね。
 
 （<a href=\"https://youtu.be/HCTQNJu8OhE?t=3858\">納涼クォータニオン夏祭り</a>, 安原 祐二）
+","
+ー 光輝き周囲を飛び交う、十二もの精霊。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
