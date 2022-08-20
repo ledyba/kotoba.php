@@ -3466,6 +3466,11 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 「でも、それもメリハリあっていいですよね。道中は結構厳しくて『やったボスだ楽できるー！』みたいなね」
 
 （<a href=\"https://youtu.be/NbUDJwZJUj8?t=2335\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+","
+米国眼科アカデミーはブルーライトカット眼鏡を推奨しません。
+目が疲れた場合には、休憩することです。
+
+<a href=\"https://www.gankaikai.or.jp/info/20210414_bluelight.pdf\">米国眼科アカデミーのブルーライトに関する Q&A</a>
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
