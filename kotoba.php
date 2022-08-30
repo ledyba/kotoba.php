@@ -3471,6 +3471,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 目が疲れた場合には、休憩することです。
 
 <a href=\"https://www.gankaikai.or.jp/info/20210414_bluelight.pdf\">米国眼科アカデミーのブルーライトに関する Q&A</a>
+","
+人が一番強いときは、恐れないときです。
+
+<a href=\"https://youtu.be/PTT6ZM7KXOM?t=1451\">夏休みシューティング配信 ちゃんたけ vs 東方電幻景#3 2022/08/22</a>
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
