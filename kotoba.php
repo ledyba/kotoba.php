@@ -3475,6 +3475,12 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 人が一番強いときは、恐れないときです。
 
 <a href=\"https://youtu.be/PTT6ZM7KXOM?t=1451\">夏休みシューティング配信 ちゃんたけ vs 東方電幻景#3 2022/08/22</a>
+","
+プログラミング言語でnull 参照が広く利用されるようになったのは1965年にさかのぼります。
+この年にコンピュータ科学者のTony Hoareが非常に影響力のあるALGOL 言語にnull 参照を追加しました。
+その後、彼はこの発明について謝罪し、「私の10 億ドルに相当する過ち」と述べています。
+
+（プログラミングC# 第8版 / Ian Griffiths 著、木下 哲也　訳）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
