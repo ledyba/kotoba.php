@@ -3481,6 +3481,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 その後、彼はこの発明について謝罪し、「私の10 億ドルに相当する過ち」と述べています。
 
 （プログラミングC# 第8版 / Ian Griffiths 著、木下 哲也　訳）
+","
+または、生まれながらの動的言語ファンの1人で、静的な型で意味を表現することにアレルギーを持っているだけかもしれません。その場合には、C#はあなたにとってよい言語ではないかもしれません。
+
+（プログラミングC# 第8版 / Ian Griffiths 著、木下 哲也　訳）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
