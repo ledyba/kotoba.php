@@ -3063,6 +3063,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 
 （<a href=\"https://ameblo.jp/chocolat-et-framboise/entry-12327867187.html\">vaporwaveがどのようにしてインターネットで作られ、そして、壊されたか。</a>）
 ","
+要するに、労働意欲、購買意欲を促進させるための音楽を提供し続けている。
+
+（<a href=\"http://www.ele-king.net/review/sound_patrol/002413/\">[Vaporwave] - INTERNET CLUB - VANISHING VISION</a>）
+","
 ゴルフ・クラブの待合室でかかる音楽、教則本にあるようなBGM、ぞっとするようなハイパーモダンなオフィス・ビルディングの受付で流れている音楽をかき集めて、ファッキン清潔なオフィス街の机に並んだPCから高解像度の毒を吐くことができるだろうか。
 
 （<a href=\"http://www.ele-king.net/review/sound_patrol/002413/\">[Vaporwave] - INTERNET CLUB - VANISHING VISION</a>）
