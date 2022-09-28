@@ -950,6 +950,10 @@ $str = array(
 
 （わかば*ガール 二葉 「Dカップでお願いします」）
 ","
+それはきっと他の人に　言えない　見せたくないの
+
+（花雪 / smileY inc.）
+","
 &gt; * Who did it, will they be fired?
 &gt; Someone made a mistake, they won&apos;t be fired.
 
