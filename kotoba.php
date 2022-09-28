@@ -3067,6 +3067,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 
 （<a href=\"http://www.ele-king.net/review/sound_patrol/002413/\">[Vaporwave] - INTERNET CLUB - VANISHING VISION</a>）
 ","
+盗用アートは、ある種の瞬間芸として成立する。
+
+（<a href=\"http://www.ele-king.net/review/sound_patrol/002413/\">[Vaporwave] - INTERNET CLUB - VANISHING VISION</a>）
+","
 ゴルフ・クラブの待合室でかかる音楽、教則本にあるようなBGM、ぞっとするようなハイパーモダンなオフィス・ビルディングの受付で流れている音楽をかき集めて、ファッキン清潔なオフィス街の机に並んだPCから高解像度の毒を吐くことができるだろうか。
 
 （<a href=\"http://www.ele-king.net/review/sound_patrol/002413/\">[Vaporwave] - INTERNET CLUB - VANISHING VISION</a>）
