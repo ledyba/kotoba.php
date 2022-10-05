@@ -3546,6 +3546,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 帰りたい…
 
 （復讐の魔女 / majoccoid / 「魔女集会アンソロジー 2」収録）
+","
+胃が痛い
+
+<a href=\"https://youtu.be/vsHrYdmacQ4?t=1993\">秋のシューティング祭り　大山vs達人王　2022/10/04</a>
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
