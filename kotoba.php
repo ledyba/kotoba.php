@@ -3556,6 +3556,14 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 胃が痛い
 
 <a href=\"https://youtu.be/vsHrYdmacQ4?t=1993\">秋のシューティング祭り　大山vs達人王　2022/10/04</a>
+","
+どうしても、あたしはあたしのままでこの世界を感じていたかったんだ。
+
+（Little Witdch Nobeta, Simon Creative）
+","
+でも…あの帽子お気に入りで…かぶってるととても安心するの…
+
+（Little Witdch Nobeta, Simon Creative）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
