@@ -3559,11 +3559,11 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 ","
 どうしても、あたしはあたしのままでこの世界を感じていたかったんだ。
 
-（Little Witdch Nobeta, Simon Creative）
+（Little Witdch Nobeta, Pupuya Games）
 ","
 でも…あの帽子お気に入りで…かぶってるととても安心するの…
 
-（Little Witdch Nobeta, Simon Creative）
+（Little Witdch Nobeta, Pupuya Games）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
