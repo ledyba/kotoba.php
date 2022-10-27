@@ -3559,6 +3559,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 
 <a href=\"https://youtu.be/vsHrYdmacQ4?t=1993\">秋のシューティング祭り 大山vs達人王　2022/10/04</a>
 ","
+キミ、自分が何をすべきか分かってる？
+
+（Little Witdch Nobeta, PUPUYA GAMES）
+","
 どうしても、あたしはあたしのままでこの世界を感じていたかったんだ。
 
 （Little Witdch Nobeta, PUPUYA GAMES）
