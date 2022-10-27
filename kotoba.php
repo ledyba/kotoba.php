@@ -3566,6 +3566,12 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 でも…あの帽子お気に入りで…かぶってるととても安心するの…
 
 （Little Witdch Nobeta, PUPUYA GAMES）
+","
+世の中ってねぇ、見えてないことで、結構形成されてるんですよね。
+見えてる情報なんて、本当に一部で。
+見えてないことで、ぼくらの仕事は動いてる。
+
+<a href=\"https://youtu.be/qFO4ofVdaJo?t=305\">秋のシューティング祭り　イケダミノロックvs雷電III　2022/10/26</a>
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
