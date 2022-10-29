@@ -3591,6 +3591,8 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 「自分が関わっている作品がいつ打ち切りになっても、みっともなく終わることのないような準備をしておく」
 
 <a href=\"https://w.atwiki.jp/aniwotawiki/pages/47726.html\">首藤剛志, 脚本家</a>
+","
+―わたしにとっては、この世界は、半分でしかない。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
