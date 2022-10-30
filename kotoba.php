@@ -3621,6 +3621,10 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 何も妨げるものはない。
 
 ただ、書類にそうは書けないし、他人に自己紹介するときもそうは言えないってだけで。
+","
+群れの中に答えはない
+
+（2011年菊花賞CM）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
