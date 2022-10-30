@@ -3615,6 +3615,12 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 <a href=\"https://w.atwiki.jp/aniwotawiki/pages/47726.html\">首藤剛志, 脚本家</a>
 ","
 ―わたしにとっては、この世界は、半分でしかない。
+","
+記憶なんて自由に捏造していいんだよ。
+君は愚かな人間に、橋の下に捨てられていた所を、魔女の気まぐれで作られたけど忘れ去られた、ぼろぼろのからくり人形に拾われて育てられた、と思うことだって自由だ。
+何も妨げるものはない。
+
+ただ、書類にそうは書けないし、他人に自己紹介するときもそうは言えないってだけで。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
