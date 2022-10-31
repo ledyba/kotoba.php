@@ -3635,7 +3635,7 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 変わる時代の中で変わらない夢を掴もう
 激しい雨に打たれても現実に流されない・・・君でいるために
 
-（Boy / The ALFEE / 「フィギュア17 つばさ&amp;ヒカル」 OP）
+（Boy / THE ALFEE / 「フィギュア17 つばさ&amp;ヒカル」 OP）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
