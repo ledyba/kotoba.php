@@ -3659,6 +3659,13 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 　…友達なら」
 
 （精霊さまの難儀な日常 3巻 / 琴慈）
+","
+「なにか　あるんでしょう
+　あの子達がやらなくてはいけない
+
+　\"大事\"なことが」
+
+（精霊さまの難儀な日常 3巻 / 琴慈）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
