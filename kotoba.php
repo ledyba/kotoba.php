@@ -3705,6 +3705,13 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 そのひとつがこのコラムです。
 
 <a href=\"http://www.style.fm/as/05_column/shudo154.shtml\">首藤剛志, 脚本家, 2010年10月29日 61歳没</a>
+","
+”途中でいろいろ諦めておくのが、一番まっとうな、普通のやり方なのだ。”
+
+「普通」に生活していれば、＜チェーンソー男＞が現れることはない。では「普通」とは何だ？
+……などと考え始めるとヤツが闇の向こうから忍び寄ってくる。
+
+<a href=\"https://arc.7io.org/negative-happy-chainsaw-edge_ikaruga/\">ネガティブハッピー・チェーンソーエッヂ　/　斑鳩</a>
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
