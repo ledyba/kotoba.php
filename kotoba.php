@@ -3734,6 +3734,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 それがようやく本書として実現することになった。
 
 <a href=\"https://amzn.to/3sNwb9D\">Apple2 1976‐1986, 柴田文彦</a>
+","
+泣けてきて歌えないんだこれ
+
+（名無しさん, とある歌について）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
