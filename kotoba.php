@@ -3753,6 +3753,8 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 泣けてきて歌えないんだこれ
 
 （名無しさん, とある歌について）
+","
+ー 明日、この体が消えても…穏やかな顔でいられるように。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
