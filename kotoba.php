@@ -3772,6 +3772,13 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 シューティングゲームが消えてなくなってしまう前に、 この芸術的な弾幕の数々を保存しなくては、と。 
 
 （<a href=\"http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/\">BulletML</a>について, ABA GAMES）
+","
+そういう誰もが面白く感じられるつくりのゲームは、他のゲームクリエイターがやればよいと思うんです。ぼくは万人受けしなかったとしても、自分自身が見たことのない世界へ行けるゲームをつくる。そのほうが、ぼくにとっては重要なんです。
+
+（<a href=\"https://hillslife.jp/culture/2018/05/26/stay-negative-stay-creative/\">「無限のネガティブ」は創作の源である——ヨコオタロウ（ゲームディレクター）</a>）
+
+「無限のネガティブ」は創作の源である——ヨコオタロウ（ゲームディレクター）｜ヒルズライフ HILLS LIFE
+https://hillslife.jp/culture/2018/05/26/stay-negative-stay-creative/
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
