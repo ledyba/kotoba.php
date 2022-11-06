@@ -3801,6 +3801,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 1バイトも役にたたない。
 
 （<a href=\"https://youtu.be/-WwGuyQvhH4?t=302\">秋のシューティング祭り　イケダミノロックvsもうぢゃ（隠しモード）　2022/11/2 </a>）
+","
+もし人類がこのまま暴走しても，1億年後に二酸化炭素や窒素酸化物を摂取して繁栄する生物が生まれたとしたら，私たち人類は「よくぞ大気に窒素酸化物を満たしてくれた」「かつての人類の繁栄はまさに地球の神秘」と絶賛されることでしょう．
+
+（<a href=\"https://www.comp.sd.tmu.ac.jp/ssl/kimi_storia/36.html\">epi.36「きみを死なせないための物語」宇宙考証の解説</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
