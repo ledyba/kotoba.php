@@ -1313,6 +1313,10 @@ world-class experts, easygoing guys, and very stable team.
 
 （<a href=\"http://hinalogic.com/news/\">ひなろじ〜form Luck &amp; Logic〜 「サイト閉鎖のお知らせ」</a>）
 ","
+私のロジックは　私だよ！
+
+（<a href=\"http://hinalogic.com/\">ひなろじ〜form Luck &amp; Logic〜 OP</a> / BUTTERFLY EFFECTOR / 作詞: 唐沢美帆）
+","
 「しあわあせの色は どんな色？
 　かえりみち　空に聞いてみる」
 「お星様一つ輝いた
