@@ -3849,6 +3849,8 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 実際は動画も音楽も見も聞きもしてないというｗ 
 
 （名無しさん, 2000年代初頭のファイル共有ソフトについて）
+","
+ー データセンターのサーバの暖かさは人間よりも優しい。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
