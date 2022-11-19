@@ -3897,6 +3897,8 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 時を凍れせていたら．．．
 
 （「Little Witch Nobeta」 ED 「魂の記憶」/ 作詞 Yosuke Sawa）
+","
+やめとく。権力もつとロクなことない。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
