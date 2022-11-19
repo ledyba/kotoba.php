@@ -3871,6 +3871,28 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 日本語でもそうだけど「ご理解・ご協力を…」とか「～のご利用が可能になります！」「ますます便利に！」というのは、大体において「実質強制」だったり「利己的に仕組みを変更」という合図。
 
 （どこかのウェブサイト、セキュリティとプライバシーについて）
+","
+壊れた天秤の針
+魔法はいつか消えゆくのに
+亡くしたくない気持ちが
+胸を焦がし続けてる
+
+（「Little Witch Nobeta」 ED 「魂の記憶」/ 作詞 Yosuke Sawa）
+","
+瞬く命の灯が
+見果てぬ夢求め
+彷徨い続けながら
+滲んでゆく
+憧れの涙に
+
+（「Little Witch Nobeta」 ED 「魂の記憶」/ 作詞 Yosuke Sawa）
+","
+明日を刻まない時計
+魔法がずっと消えないように
+あの幸せな日のまま
+時を凍れせていたら．．．
+
+（「Little Witch Nobeta」 ED 「魂の記憶」/ 作詞 Yosuke Sawa）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
