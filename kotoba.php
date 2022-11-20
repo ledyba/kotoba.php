@@ -3911,6 +3911,22 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 （「Little Witch Nobeta」 ED 「魂の記憶」/ 作詞 Yosuke Sawa）
 ","
 やめとく。権力もつとロクなことない。
+","
+おべんきょう　にんげん界
+
+（「瓶詰妖精」 OP 「教えてせんせいさん」 / 作詞 黒田陽介）
+","
+おしえてせんせいさん
+あれも　これも
+もっとしりたい
+
+（「瓶詰妖精」 OP 「教えてせんせいさん」 / 作詞 黒田陽介）
+","
+してしてせんせいさん
+すごい　ひみつ
+いえないことぜんぶ
+
+（「瓶詰妖精」 OP 「教えてせんせいさん」 / 作詞 黒田陽介）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
