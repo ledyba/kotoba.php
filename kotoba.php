@@ -3927,6 +3927,8 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 いえないことぜんぶ
 
 （「瓶詰妖精」 OP 「教えてせんせいさん」 / 作詞 黒田陽介）
+","
+ー ラスボスは、儀式なぐらいが、ちょうどいい。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
