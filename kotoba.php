@@ -3971,6 +3971,15 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 「どうかなぁ」
 
 （バトルプログラマーシラセ Episode1 「登場のBPS!イ-mode VS スーパーコンピューター アメリカ王も登場!」）
+","
+私にとってはすべてが狂っているので、みんなを恐れています
+
+（AIの生成したまちがった自動字幕）
+","
+彼らが見えないのは何だと思いますか
+エスキモーのみんな
+
+（AIの生成したまちがった自動字幕）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
