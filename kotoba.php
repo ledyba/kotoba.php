@@ -3980,6 +3980,11 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 エスキモーのみんな
 
 （AIの生成したまちがった自動字幕）
+","
+私を証明して
+死ぬ
+
+（AIの生成したまちがった自動字幕）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
