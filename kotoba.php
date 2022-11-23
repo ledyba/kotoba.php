@@ -3985,6 +3985,8 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 死ぬ
 
 （AIの生成したまちがった自動字幕）
+","
+ー 無償のAI（あい）は商品のリコメンデーションしかしてくれねぇなぁ
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
