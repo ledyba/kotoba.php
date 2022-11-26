@@ -4000,6 +4000,11 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 世の風潮にペースを乱されない事 
 
 （名無しさん）
+","
+ゴミと砂漠と家畜と破壊の現代文明
+そこに癒しは存在しない 
+
+（名無しさん）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
