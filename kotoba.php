@@ -4009,6 +4009,11 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 お前ら生き延びろよ
 
 （名無しさん）
+","
+「幸せってなんだっけ」
+「辛くなければ幸せ」
+
+（名無しさん）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
