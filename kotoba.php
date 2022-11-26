@@ -4014,6 +4014,12 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 「辛くなければ幸せ」
 
 （名無しさん）
+","
+無理すれば、長続きせず
+無茶すれば、早死にす
+ゆるく逝け
+
+（名無しさん）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
