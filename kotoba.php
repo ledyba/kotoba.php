@@ -404,6 +404,10 @@ $str = array(
 
 （「Karous -The Beast of Re:Eden- / クロン）
 ","
+皆が希望を胸に動き出す朝は、嫌いだ。
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
 我が駆るは、天翔る鉄騎兵
 
 （「アンダーディフィート」/G.Rev）
