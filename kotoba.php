@@ -4042,6 +4042,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 （統計学への確率論,その先へ: ゼロからの測度論的理解と漸近理論への架け橋 / 清水 泰隆）
 ","
 ー 作り物の希望の話には興味がない。
+","
+スキにもいろいろ　ヤダもそれぞれ
+
+（「天空カフェテリア」 / 作詞 畑亜貴 作曲 大久保薫）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
