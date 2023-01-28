@@ -4046,6 +4046,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 スキにもいろいろ　ヤダもそれぞれ
 
 （「天空カフェテリア」 / 作詞 畑亜貴 作曲 大久保薫）
+","
+優しいものは　とても怖いから　泣いてしまう
+
+（「あなたとワルツを」 / 作詞・作曲：鬼束ちひろ）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
