@@ -4050,6 +4050,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 優しいものは　とても怖いから　泣いてしまう
 
 （「あなたとワルツを」 / 作詞・作曲：鬼束ちひろ）
+","
+不思議な炎に　焼かれているのなら
+
+（「あなたとワルツを」 / 作詞・作曲：鬼束ちひろ）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
