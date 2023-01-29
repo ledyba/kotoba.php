@@ -4054,6 +4054,11 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 不思議な炎に　焼かれているのなら
 
 （「あなたとワルツを」 / 作詞・作曲：鬼束ちひろ）
+","
+「この世界は変化はするが「良く」はならない」
+「この世界には希望はない」
+「この世界に期待しない」
+と毎朝三回唱える
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
