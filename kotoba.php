@@ -4075,6 +4075,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 「この世界には希望はない」
 「この世界に期待しない」
 と毎朝三回唱える
+","
+「じゃあ」と言ってもいま思うとなにが「じゃあ」なんだという感じですが
+
+<a href=\"https://otakei.otakuma.net/archives/2023020102.html\">伝説の電波系サイト「愛の妖精ぷりんてぃん」初代運営者にインタビュー</a>
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
