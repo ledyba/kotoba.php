@@ -1099,6 +1099,14 @@ $str = array(
 
 （AMD, <a href=\"https://akiba-pc.watch.impress.co.jp/hotline/20060812/etc_amdevent.html\">円周率計算プログラム「スーパーπ」の実行がAMDのCPUで遅いことに関して</a>）
 ","
+2,000円の差は円周率の計算が速いということを加味して頂ければ、そのくらい許して頂けるかな
+
+（Intel, <a href=\"https://akiba-pc.watch.impress.co.jp/blog/archives/2006/08/intelcore_2_duo.html\">円周率計算プログラム「スーパーπ」の実行がIntelのCPUでAMDより速いことに関して</a>）
+","
+みなさんSuperπの計算やってますか？
+
+（Intel, <a href=\"https://akiba-pc.watch.impress.co.jp/blog/archives/2006/08/intelcore_2_duo.html\">円周率計算プログラム「スーパーπ」の実行がIntelのCPUでAMDより速いことに関して</a>）
+","
 無い無い　いない　もとからいない
 存在しない　架空のまま
 
