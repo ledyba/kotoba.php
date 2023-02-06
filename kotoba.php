@@ -173,6 +173,17 @@ $str = array(
 
 （「不思議なレシピ」 / 中河健）
 ","
+彼方に光る星は
+遠く果てなき未来を　示すきらめき
+
+（「Falling, The Star Light」 / 中河健）
+","
+もしもこの胸の中　魔法が宿るなら
+何を叶えようかな
+夢　溢れ出す
+
+（「Falling, The Star Light」 / 中河健）
+","
 女性というのはもう印刷物かデータで十分だろうと。
 言ってしまえば紙かjpgで十分だ。
 
@@ -4095,6 +4106,8 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 いまのぷりんてぃんのサイトを心ある方が見れば、ただでたらめに作っているわけではなく、よく分からないけれどなにかの規則に沿って作られていることが分かると思います。
 
 <a href=\"https://otakei.otakuma.net/archives/2023020102.html\">伝説の電波系サイト「愛の妖精ぷりんてぃん」初代運営者にインタビュー</a>
+","
+明日死ぬのでもいい、面白い事がしたい。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
