@@ -4113,6 +4113,18 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 風が見えるのは、全部理屈があるから
 
 （<a href=\"https://youtu.be/wDHkSzOXQYU?t=601\">石原良純</a>, 気象予報士）
+","
+空あるんだから
+予報も大事だけど
+空見りゃわかるのよ
+
+（<a href=\"https://youtu.be/wDHkSzOXQYU?t=978\">石原良純</a>, 気象予報士）
+","
+天気って地面から見上げてるものだと思ったら、
+気象学の根本は地球、太陽、空気、水から始まる
+これって神様の世界じゃん？
+
+（<a href=\"https://youtu.be/wDHkSzOXQYU?t=995\">石原良純</a>, 気象予報士）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
