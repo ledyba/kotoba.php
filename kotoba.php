@@ -4108,6 +4108,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 <a href=\"https://otakei.otakuma.net/archives/2023020102.html\">伝説の電波系サイト「愛の妖精ぷりんてぃん」初代運営者にインタビュー</a>
 ","
 明日死ぬのでもいい、面白い事がしたい。
+","
+気象予報士になると、風が見えるようになる
+
+（<a href=\"https://youtu.be/wDHkSzOXQYU?t=601\">石原良純</a>, 気象予報士）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
