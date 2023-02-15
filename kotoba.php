@@ -4125,6 +4125,11 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 これって神様の世界じゃん？
 
 （<a href=\"https://youtu.be/wDHkSzOXQYU?t=995\">石原良純</a>, 気象予報士）
+","
+（都会人にとって）一番近い自然が空。
+で、その空は、どんな海よりも広いし、どんな山よりも高い。
+
+（<a href=\"https://youtu.be/wDHkSzOXQYU?t=644\">石原良純</a>, 気象予報士）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
