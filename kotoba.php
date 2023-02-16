@@ -4130,6 +4130,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 で、その空は、どんな海よりも広いし、どんな山よりも高い。
 
 （<a href=\"https://youtu.be/wDHkSzOXQYU?t=644\">石原良純</a>, 気象予報士）
+","
+イクラ丼が食べたかったなぁ　いやでもそぉでもないかなぁ～？
+
+（<a href=\"https://www.nicovideo.jp/watch/sm1860373\">ドルアーガの塔より「おなかすいたうた」</a>, ドンフライP）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
