@@ -4142,6 +4142,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 イクラ丼が食べたかったなぁ　いやでもそぉでもないかなぁ～？
 
 （<a href=\"https://www.nicovideo.jp/watch/sm1860373\">ドルアーガの塔より「おなかすいたうた」</a>, ドンフライP）
+","
+日本人は高度経済成長期以降『急がないといけない』という考えに取りつかれてしまったんです。のんびりしていると不安でしょうがないんです。
+
+（<a href=\"https://www3.nhk.or.jp/news/html/20230301/k10013987091000.html\">エスカレーター 乗り方の“暗黙のルール” 調べて分かったこと</a>, 斗鬼正一）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
