@@ -4146,6 +4146,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 日本人は高度経済成長期以降『急がないといけない』という考えに取りつかれてしまったんです。のんびりしていると不安でしょうがないんです。
 
 （<a href=\"https://www3.nhk.or.jp/news/html/20230301/k10013987091000.html\">エスカレーター 乗り方の“暗黙のルール” 調べて分かったこと</a>, 斗鬼正一）
+","
+ー 言語の外側に出たい。
+","
+ー 言語の外側を、見てみたいんだ。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
