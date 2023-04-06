@@ -4150,6 +4150,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 ー 言語の外側に出たい。
 ","
 ー 言語の外側を、見てみたいんだ。
+","
+知るか。すがるものなど、はじめから何もないのだ。
+
+（「ドラッグオンドラグーン」 / キャビア）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
