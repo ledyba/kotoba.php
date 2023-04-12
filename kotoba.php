@@ -4154,6 +4154,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 知るか。すがるものなど、はじめから何もないのだ。
 
 （「ドラッグオンドラグーン」 / キャビア）
+","
+書いたら逮捕されそうな言葉しか浮かばない
+
+（名無しさん）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
