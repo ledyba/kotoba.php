@@ -4158,6 +4158,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 書いたら逮捕されそうな言葉しか浮かばない
 
 （名無しさん）
+","
+一匙が　冷たい甘い　矛盾が愉快
+
+（「童話迷宮」 / 「おとぎ銃士 赤ずきん」 OP / 作詞: 畑亜貴 作曲: 太田雅友）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
