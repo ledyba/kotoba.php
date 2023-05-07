@@ -4174,6 +4174,8 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 二度と　冷めないように
 
 （「FEELING AROUND」 / 作詞・作曲: 三原康司）
+","
+ー 人に似て、人とは違う。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
