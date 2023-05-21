@@ -4184,6 +4184,8 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 （「FEELING AROUND」 / 作詞・作曲: 三原康司）
 ","
 ー 人に似て、人とは違う。
+","
+ー じんわりと何かを絞め殺されていく感覚。気がつくと見逃してしまいそうなほど、ゆっくりと、じんわりと。
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
