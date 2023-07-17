@@ -213,6 +213,10 @@ $str = array(
 
 （HELLO, SOFMAP WORLD / 作詞：山川啓介）
 ","
+明日が好きな人だけが　地球を回す
+
+（HELLO, SOFMAP WORLD / 作詞：山川啓介）
+","
 熱い視線の人だけが　地球を回す
 
 （HELLO, SOFMAP WORLD / 作詞：山川啓介）
