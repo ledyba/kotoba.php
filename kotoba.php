@@ -221,6 +221,13 @@ $str = array(
 
 （HELLO, SOFMAP WORLD / 作詞：山川啓介）
 ","
+おいでよ不思議が　呼んでる世界
+ハートのスピード　FULLにして
+君ならできるさ　大人になった
+時代にできない　冒険が
+
+（HELLO, SOFMAP WORLD / 作詞：山川啓介）
+","
 自由の似合う人だけが　地球を回す
 
 （HELLO, SOFMAP WORLD / 作詞：山川啓介）
