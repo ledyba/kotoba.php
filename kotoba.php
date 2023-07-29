@@ -458,6 +458,11 @@ $str = array(
 
 （「Karous -The Beast of Re:Eden- / クロン）
 ","
+「戦争なんか起きるわけない」って
+ちょっと人類の愚かさナメてんじゃね？
+
+（「Karous -The Beast of Re:Eden- / クロン）
+","
 我が駆るは、天翔る鉄騎兵
 
 （「アンダーディフィート」/G.Rev）
