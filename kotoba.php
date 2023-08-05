@@ -4298,6 +4298,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 だって思いどおりのものを作るなんて、最終的には自分にしかできないんだし、そのための勉強も努力も全部自分でやるよりないのです。
 
 （<a href=\"https://ameblo.jp/varstray/\">株式会社ロケットエンジン、スタッフブログ</a>）
+","
+生命体の価値観は、生命寄りに偏ってチューニングされている。
+
+（とあるウェブサイト）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
