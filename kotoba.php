@@ -4318,11 +4318,11 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 優れている、劣っている、で判断する民衆。
 それは理路整然としているようで、実は迷路である。
 
-（<a href=\"https://www.higouti.com/post/%E4%BA%8C%E7%AC%91%E4%BA%AD%E3%81%B8%E8%A1%8C%E3%81%93%E3%81%86\">二笑亭へ行こう</a>より孫引き）
+（<a href=\"https://www.higouti.com/post/%E4%BA%8C%E7%AC%91%E4%BA%AD%E3%81%B8%E8%A1%8C%E3%81%93%E3%81%86\">二笑亭へ行こう</a>）
 ","
 自分のなかのナイーブを守るということ。
 
-（<a href=\"https://www.higouti.com/post/%E4%BA%8C%E7%AC%91%E4%BA%AD%E3%81%B8%E8%A1%8C%E3%81%93%E3%81%86\">二笑亭へ行こう</a>より孫引き）
+（<a href=\"https://www.higouti.com/post/%E4%BA%8C%E7%AC%91%E4%BA%AD%E3%81%B8%E8%A1%8C%E3%81%93%E3%81%86\">二笑亭へ行こう</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
