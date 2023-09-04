@@ -1177,6 +1177,10 @@ $str = array(
 
 （「SWAN」 / group_inou）
 ","
+価値観が腐ってる証拠です
+
+（「EYE」 / group_inou）
+","
 そこは静かな視覚の奥の話
 
 （「EYE」 / group_inou）
