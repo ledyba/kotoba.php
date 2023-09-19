@@ -4327,6 +4327,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 自分のなかのナイーブを守るということ。
 
 （<a href=\"https://www.higouti.com/post/%E4%BA%8C%E7%AC%91%E4%BA%AD%E3%81%B8%E8%A1%8C%E3%81%93%E3%81%86\">二笑亭へ行こう</a>）
+","
+その後、小説のネタ帳を燃やしたとし「燃やそうと思った時につっかえ棒みたいなものがなくなった。まじめに生きていくためのつながりみたいなものがなくなり、よからぬ事件を起こす方向に向かった」などと話しました。
+
+(青葉真司, <a href=\"https://web.archive.org/web/20230919101448/https://www3.nhk.or.jp/kansai-news/20230919/2000078014.html\">「京都アニメーション」の放火殺人事件の裁判</a>)
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
