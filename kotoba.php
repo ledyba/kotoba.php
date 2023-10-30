@@ -4367,6 +4367,12 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 遺伝子で決まってるんだよ！　ペンギンは空を飛べないの！
 
 （名無しさん）
+","
+アタマ使わないで見る分にはおもしれぇ
+
+あ、俺疲れてんのかな？
+
+（名無しさん, とあるアニメの感想）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
