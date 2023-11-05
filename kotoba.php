@@ -4373,6 +4373,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 あ、俺疲れてんのかな？
 
 （名無しさん, とあるアニメの感想）
+","
+「データしか信じない人はどんどん阿呆になるなぁｗ」
+
+（リコリス・リコイル #07 Time will tell）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
