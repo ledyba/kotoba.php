@@ -4429,6 +4429,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 何を狙って付き合うんだ　何が舟を動かすんだ
 
 （「宙舟（そらふね）」 / 詞・曲 中島みゆき）
+","
+人類のみなさん。永遠に、楽しんでください。
+
+<a href=\"https://www.youtube.com/watch?v=hKWhWd-Qycs\">I.Q インテリジェント キューブのCM</a>
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
