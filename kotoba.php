@@ -4437,6 +4437,15 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 人類のみなさん。永遠に、楽しんでください。
 
 <a href=\"https://www.youtube.com/watch?v=hKWhWd-Qycs\">I.Q インテリジェント キューブのCM</a>
+","
+だんだん、きな臭くなってきましたね
+
+（安原 祐二, <a href=\"https://www.youtube.com/watch?v=VNVDtUT_4rs&t=710s\">ハードウェア性能を引き出して60fpsを実現するプログラミング・テクニック</a>）
+","
+みなさんね、Unity使ってると、もう頑張りようがないと思ってるでしょ？
+いや、意外と、やれないこともないぞっていう話
+
+（安原 祐二, <a href=\"https://www.youtube.com/watch?v=VNVDtUT_4rs&t=758s\">ハードウェア性能を引き出して60fpsを実現するプログラミング・テクニック</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
