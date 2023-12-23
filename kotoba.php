@@ -4446,6 +4446,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 いや、意外と、やれないこともないぞっていう話
 
 （安原 祐二, <a href=\"https://www.youtube.com/watch?v=VNVDtUT_4rs&t=758s\">ハードウェア性能を引き出して60fpsを実現するプログラミング・テクニック</a>）
+","
+偶然に会いたいな
+
+（わいわいお天気ロード / 作詞 畑亜貴 作曲 石濱翔）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
