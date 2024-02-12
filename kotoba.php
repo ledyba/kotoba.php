@@ -4504,6 +4504,12 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 大学という場は、単に教師が言うことを学習するだけの場ではなく、色んな試行錯誤を自律的に行い、『ここまでの範囲であれば自分の能力や周囲の人との共同作業で可能だ』と理解していけるような、自由の具体的なあり方を測れる空間なのではないかなと考えています
 
 （増田聡, ポピュラー音楽研究者, <a href=\"https://web.archive.org/web/20240129032926/https://www.j-cast.com/2024/01/28477068.html?p=all\">大学の授業中、学生が鍋を食べる...驚きの光景にSNS賛否両論</a>）
+","
+ 神社の中　石段に座り
+ ボヤーッとした闇の中で
+ ざわめきが少し遠く聞こえた
+
+（Whiteberry 夏祭り）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
