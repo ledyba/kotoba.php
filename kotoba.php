@@ -4519,6 +4519,15 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 プログラムの処理が、実行時という枠から完全に自由になった世界により一歩近づくために。
 
 （ボレロ村上, <a href=\"https://boleros.hateblo.jp/entry/2014/04/16/152643\">日経ソフトウエア5月号 「constexpr」が開くコンパイル時プログラミングの世界</a>）
+","
+君はどんな夢の中で　踊りたいのかな
+
+（夢が僕らの太陽さ / 詞: 畑亜貴）
+","
+教えてよ　楽しそうだよ
+知りたくなるね　君の目が探す虹を
+
+（夢が僕らの太陽さ / 詞: 畑亜貴）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
