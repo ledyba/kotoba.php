@@ -4528,6 +4528,15 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 知りたくなるね　君の目が探す虹を
 
 （夢が僕らの太陽さ / 詞: 畑亜貴）
+","
+安全圏で飛ばす言葉に　摩耗する僕らは
+
+（ハローニュージェネレーション / 詞・曲 Yunomi）
+","
+キラキラの夢の中　せめてせめて幻を
+生きる希望と呼ぶなら　どうか醒めないでいてね
+
+（ハローニュージェネレーション / 詞・曲 Yunomi）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
