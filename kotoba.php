@@ -4579,6 +4579,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 生きる希望と呼ぶなら　どうか醒めないでいてね
 
 （ハローニュージェネレーション / 詞・曲 Yunomi）
+","
+どこかの誰かが言った発言のコピーアンドペーストや、機関誌の受け売り、Yahoo!ニュースのコメント欄をそのまま垂れ流しているような、「お前」の欠落した言葉をおれに向けるんじゃない。
+
+（どこかのブログ）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
