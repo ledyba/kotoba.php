@@ -4631,6 +4631,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 「…病気じゃない方がいいだろう？」
 
 （「ブギーポップは笑わない(2019)」 / 第10話 「夜明けのブギーポップ」）
+","
+この世にはそこそこ定着した定型文が幾つもあり、それらを何も考えずに押し売りする人がいっぱいいます。
+
+（<a href=\"https://ayuha167.github.io/blog/2023/07/21\">コア層が全体をダメにする説の分類</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
