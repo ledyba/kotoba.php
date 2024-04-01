@@ -4657,12 +4657,12 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 ","
 おもしれー姉ちゃんはかっこいいお姉ちゃんでもあるんだよ
 
-（ご注文はうさぎですか？ AprilFool 2024 THE 2nd GEAR 「保登心愛」）
+（ご注文はうさぎですか？ AprilFool企画 2024 「THE 2nd GEAR 『保登心愛』」）
 ","
 情報消費と過剰な承認欲求にあふれた世界にも
 青い鳥はいるのかなって
 
-（ご注文はうさぎですか？ AprilFool 2024 THE 2nd GEAR 「神沙 夏明」）
+（ご注文はうさぎですか？ AprilFool 2024 「THE 2nd GEAR 『神沙 夏明』」）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
