@@ -4770,6 +4770,16 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 可愛いをどこにかければいいんだよ。むしろ教えてくれ。思いてえよ。
 
 （<a href=\"https://note.com/famous_oxalis91/n/n14c63151bf6e\">vtuber、お前は誰なんだ</a>）
+","
+でもそれはプレイヤー側の都合ですよね。
+
+心の中の誰か「でもさぁ、ゲームなんだから誰かにプレイしてもらって、評価されないと意味がないでしょ？公開されないゲームって意味があるの？」
+
+あるだろ。
+
+人によって評価の軸は違うだろ。
+
+（<a href=\"https://note.com/tauthinking/n/n7a91c04a4edc\">ゲーム制作者を追い立てないでほしい話【日記1】 </a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
