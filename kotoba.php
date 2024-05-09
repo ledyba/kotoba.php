@@ -4798,6 +4798,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 人によって評価の軸は違うだろ。
 
 （<a href=\"https://note.com/tauthinking/n/n7a91c04a4edc\">ゲーム制作者を追い立てないでほしい話【日記1】 </a>）
+","
+法律違反なのはもちろん、他人からものすごく嫌われるのでやめましょう。
+
+（「絵がふつうに上手くなる本」 / よー清水）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
