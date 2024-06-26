@@ -4865,6 +4865,13 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 「言って信じた！？」
 
 （フィロソマ / PHILOSOMA / ソニー・コンピュータエンタテインメント(1995)）
+","
+お父さん　わたしの部屋は　とても　高いところにあって
+まるで塔に　閉じ込められた　お姫様みたいです
+助けようとする人も
+天を見つめて　途方に　暮れるだけ
+
+（かんなぎ 第五巻 第二十五幕「白亜の城・前編」p68 / 武梨えり）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
