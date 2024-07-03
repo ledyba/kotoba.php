@@ -3951,6 +3951,20 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 
 （Little Witdch Nobeta, PUPUYA GAMES）
 ","
+壊れた天秤の針
+魔法はいつか消えゆくのに
+亡くしたくない気持ちが
+胸を焦がし続けてる
+
+（Little Witdch Nobeta ED 「魂の記憶」, PUPUYA GAMES, 作詞：Yosuke Sawa）
+","
+明日を刻まない時計
+魔法がずっと消えないように
+あの幸せな日のまま
+時を凍らせていたら．．．
+
+（Little Witdch Nobeta ED 「魂の記憶」, PUPUYA GAMES, 作詞：Yosuke Sawa）
+","
 世の中ってねぇ、見えてないことで、結構形成されてるんですよね。
 見えてる情報なんて、本当に一部で。
 見えてないことで、ぼくらの仕事は動いてる。
