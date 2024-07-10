@@ -4938,6 +4938,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 天を見つめて　途方に　暮れるだけ
 
 （かんなぎ 第五巻 第二十五幕「白亜の城・前編」p68 / 武梨えり）
+","
+意味がない　君も忘れるだけ
+
+（「POP TEAM EPIC」 / 作詞・作曲・編曲：吟(BUSTED ROSE) ）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
