@@ -4942,6 +4942,14 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 意味がない　君も忘れるだけ
 
 （「POP TEAM EPIC」 / 作詞・作曲・編曲：吟(BUSTED ROSE) ）
+","
+歌詞忘れました
+
+（「ガヴリールドロップキック」 / 作詞・作曲・編曲：前山田健一 ）
+","
+あー　また歌詞忘れました
+
+（「ガヴリールドロップキック」 / 作詞・作曲・編曲：前山田健一 ）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
