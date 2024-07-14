@@ -4950,6 +4950,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 あー　また歌詞忘れました
 
 （「ガヴリールドロップキック」 / 作詞・作曲・編曲：前山田健一 ）
+","
+なお、特に理由がなく、上司がRPAツールに興奮を覚えるだけの紳士なだけだった場合の時は、我慢するか、できないなら辞めたほうがいいです。
+
+（<a href=\"https://qiita.com/mima_ita/items/453bb6c313e459c44689\">自称IT企業があまりにITを使わずに嫌になって野に下った俺が紹介するWindowsの自動化の方法</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
