@@ -4978,9 +4978,6 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 それは世界に
 淘汰される！
 
-
-https://witchnobeta.fanbox.cc/posts/7470019
-
 （<a href=\"https://witchnobeta.fanbox.cc/posts/7470019\">Little Witch Nobeta comics 「いい思い出」</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
