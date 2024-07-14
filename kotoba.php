@@ -4974,6 +4974,14 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 なお、特に理由がなく、上司がRPAツールに興奮を覚えるだけの紳士なだけだった場合の時は、我慢するか、できないなら辞めたほうがいいです。
 
 （<a href=\"https://qiita.com/mima_ita/items/453bb6c313e459c44689\">自称IT企業があまりにITを使わずに嫌になって野に下った俺が紹介するWindowsの自動化の方法</a>）
+","
+それは世界に
+淘汰される！
+
+
+https://witchnobeta.fanbox.cc/posts/7470019
+
+（<a href=\"https://witchnobeta.fanbox.cc/posts/7470019\">Little Witch Nobeta comics 「いい思い出」</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
