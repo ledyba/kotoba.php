@@ -4979,6 +4979,10 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 淘汰される！
 
 （<a href=\"https://witchnobeta.fanbox.cc/posts/7470019\">Little Witch Nobeta comics 「いい思い出」</a>）
+","
+これまでの主に形態的特徴に基づく違いではなく、遺伝的違い（遺伝距離）によって種を認定するような風潮があり、総じて、形態の状態が十分に調査されないまま、遺伝情報が主体となって記載のなされる例が増加している。
+
+（日本産カエル大鑑(2018)）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
