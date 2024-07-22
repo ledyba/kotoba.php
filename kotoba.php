@@ -5034,6 +5034,10 @@ Takuanさん：クッキークリッカーの話です。
 僕の場合は、きっと一回でもチートを使ったら嫌になって辞めてしまう気がするんですよ。
 
 （<a href=\"https://nlab.itmedia.co.jp/nl/articles/1911/12/news084.html\">「クッキークリッカー」ガチ勢に聞く、ババアと過ごした6年間</a>）
+","
+目黒「もうあとが続かない、どうしたらいいんだと言うわけよ。そんなの簡単だよ、これまでのことを全部忘れて、全然関係ない話を書けばいいんだよって、おれは無責任なアドバイスをしたの。あれは覚えてる？」
+
+（<a href=\"https://www.shiina-tabi-bungakukan.com/bungakukan/archives/6406\">椎名誠 旅する文学館 » Blog Archive » 『アド・バード』</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
