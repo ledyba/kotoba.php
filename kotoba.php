@@ -5021,6 +5021,19 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 （日本産カエル大鑑(2018)）
 ","
 人類を滅ぼしたい理由？そんなの、「生まれたから」で必要かつ十分だ。そうだろう？
+","
+――すみません、クッキークリッカーの話ですよね？
+Takuanさん：クッキークリッカーの話です。
+
+（<a href=\"https://nlab.itmedia.co.jp/nl/articles/1911/12/news084.html\">「クッキークリッカー」ガチ勢に聞く、ババアと過ごした6年間</a>）
+","
+「楽しいとか、うれしいとか、もう感じない」
+
+（<a href=\"https://nlab.itmedia.co.jp/nl/articles/1911/12/news084.html\">「クッキークリッカー」ガチ勢に聞く、ババアと過ごした6年間</a>）
+","
+僕の場合は、きっと一回でもチートを使ったら嫌になって辞めてしまう気がするんですよ。
+
+（<a href=\"https://nlab.itmedia.co.jp/nl/articles/1911/12/news084.html\">「クッキークリッカー」ガチ勢に聞く、ババアと過ごした6年間</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
