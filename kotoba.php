@@ -5038,6 +5038,10 @@ Takuanさん：クッキークリッカーの話です。
 目黒「もうあとが続かない、どうしたらいいんだと言うわけよ。そんなの簡単だよ、これまでのことを全部忘れて、全然関係ない話を書けばいいんだよって、おれは無責任なアドバイスをしたの。あれは覚えてる？」
 
 （<a href=\"https://www.shiina-tabi-bungakukan.com/bungakukan/archives/6406\">椎名誠 旅する文学館 » Blog Archive » 『アド・バード』</a>）
+","
+夢を売るビジネスが人気なのを鑑みると、やはりこの世界には希望だけがないのではという気がしてくる
+
+（とあるSNSで）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
