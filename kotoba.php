@@ -5094,6 +5094,10 @@ Takuanさん：クッキークリッカーの話です。
 素晴らしい言葉である。この教えをわれわれが、たった一日でも守れるのなら、たちどころに世界平和が実現する。
 
 （人類は「宗教」に勝てるか / 町田宗鳳）
+","
+強引に自然に逆らうと利益は出ない。ちょっと逆らうくらいがちょうどいい。
+
+（<a href=\"https://anond.hatelabo.jp/20210609225859\">大規模ガチ農家がどうやって生きているか（続き）</a>）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
