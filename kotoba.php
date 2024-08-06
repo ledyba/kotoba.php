@@ -5168,6 +5168,17 @@ Takuanさん：クッキークリッカーの話です。
 強引に自然に逆らうと利益は出ない。ちょっと逆らうくらいがちょうどいい。
 
 （<a href=\"https://anond.hatelabo.jp/20210609225859\">大規模ガチ農家がどうやって生きているか（続き）</a>）
+","
+だいたいおかしな会社の特徴として、こういう書類だけはやたら豪華に作るんですよ。それっぽく。
+
+（<a href=\"https://www.youtube.com/watch?v=22J3yMTLwFM\">【怪しい止水栓】那須高原で謎の業者による「謎の温泉ビジネス」が横行!? 狙われた放棄分譲地の闇</a>, 吉川祐介）
+","
+向こうから声をかけてくるのは
+裏があるぐらいの気持ちでやった方が
+予防になるんじゃないかと
+個人的には思います。
+
+（<a href=\"https://www.youtube.com/watch?v=22J3yMTLwFM\">【怪しい止水栓】那須高原で謎の業者による「謎の温泉ビジネス」が横行!? 狙われた放棄分譲地の闇</a>, 吉川祐介）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
