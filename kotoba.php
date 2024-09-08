@@ -5241,6 +5241,12 @@ Takuanさん：クッキークリッカーの話です。
 疑う理由は　私にはない
 
 （「大正忌憚魔女 1」 / うさみみき）
+","
+「ごめんなさい　わたしのせいで」
+「違うだろう
+　悪いのは偏見だ！」
+
+（「大正忌憚魔女 1」 / うさみみき）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
