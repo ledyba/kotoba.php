@@ -5230,6 +5230,17 @@ Takuanさん：クッキークリッカーの話です。
 個人的には思います。
 
 （<a href=\"https://www.youtube.com/watch?v=22J3yMTLwFM\">【怪しい止水栓】那須高原で謎の業者による「謎の温泉ビジネス」が横行!? 狙われた放棄分譲地の闇</a>, 吉川祐介）
+","
+そしたら　きみは
+私が知っていた　魔女とは　ずいぶん違う
+悪意を持って　魔術を使うとは　思えない
+
+（「大正忌憚魔女 1」 / ）
+","
+きみのような子を
+疑う理由は　私にはない
+
+（「大正忌憚魔女 1」 / ）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
