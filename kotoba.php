@@ -5247,6 +5247,12 @@ Takuanさん：クッキークリッカーの話です。
 　悪いのは偏見だ！」
 
 （「大正忌憚魔女 1」 / うさみみき）
+","
+これから　騒ぎに　なるかも　しれない
+だが　堂々と　していて　いい
+きみは　間違っていないのだから
+
+（「大正忌憚魔女 1」 / うさみみき）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
