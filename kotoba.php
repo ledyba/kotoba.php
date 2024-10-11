@@ -5262,6 +5262,11 @@ Takuanさん：クッキークリッカーの話です。
 ありがとう
 
 （ほうかご再テンセイ！（1） / そめちめ）
+","
+心は自分から無理に開かずともよいが
+せめて誰かが開けるようにはしておいてやれ
+
+（ほうかご再テンセイ！（2） / そめちめ）
 ");
   echo "<!-- start random message (". strval(count($str))." messages) -->\n";
   echo nl2br(trim($str[array_rand($str)]), false)."\n";
