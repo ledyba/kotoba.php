@@ -5268,6 +5268,7 @@ Takuanさん：クッキークリッカーの話です。
 
 （ほうかご再テンセイ！（2） / そめちめ）
 ");
-  echo "<!-- start random message (". strval(count($str))." messages) -->\n";
-  echo nl2br(trim($str[array_rand($str)]), false)."\n";
-  echo "<!-- end random message -->\n";
+
+echo "<!-- start random message (". strval(count($str))." messages) -->\n";
+echo nl2br(trim($str[array_rand($str)]), false)."\n";
+echo "<!-- end random message -->\n";
