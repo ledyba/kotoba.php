@@ -2101,7 +2101,7 @@ Still alive.
 　でも今遊ぶとさ、そもそもさぁ、歴史もクソも、ゲーム出てねぇし関係ねぇじゃん？
   そう考えたらさ、やったらすごい面白いんで、どうか遊んで欲しいゲームの１つかなと。」
 
-（<a href=\"https://youtu.be/c2QrNJIIbwg?t=1880\">秋のシューティング祭り　第19戦「沙羅曼蛇2(SALAMANDER 2)」</a>）
+（<a href=\"https://www.youtube.com/watch?v=c2QrNJIIbwg&t=1880s\">秋のシューティング祭り　第19戦「沙羅曼蛇2(SALAMANDER 2)」</a>）
 ","
 「なんだかんだで、新作出てないから…」
 「そうそう、やるもん無いんですよ！いいゲーム待ってる…とかじゃなくて、もう出ないんだから！
@@ -2109,7 +2109,7 @@ Still alive.
   もうオッサンなんですから、コダワリすてて、ゲームセンターで遊んで欲しいなと」
 「やった事ないのはもう新作ってことで」
 
-（<a href=\"https://youtu.be/c2QrNJIIbwg?t=1920\">秋のシューティング祭り　第19戦「沙羅曼蛇2(SALAMANDER 2)」</a>）
+（<a href=\"https://www.youtube.com/watch?v=c2QrNJIIbwg&t=1920s\">秋のシューティング祭り　第19戦「沙羅曼蛇2(SALAMANDER 2)」</a>）
 ","
 自然の猛威や災厄の恐ろしさ、あるいは深淵は宗教的哲理、神秘的教義、それらに対する畏敬の念は、それらが絵や偶像の形で象徴化され、様式化されて一定の型にはめられ、広く一般に理解されるものになったときに、しばしば薄められ弱まってしまう。
 
@@ -2201,7 +2201,7 @@ Still alive.
 ","
 「意識の外から撃たれないように注意してくれ」
 
-（<a href=\"https://youtu.be/D_1QFXAsmNs?t=906\">春のSTG祭り2017 第13戦 プロギアの嵐(Progear: Storm Of Progia)</a>）
+（<a href=\"https://www.youtube.com/watch?v=D_1QFXAsmNs&t=906s\">春のSTG祭り2017 第13戦 プロギアの嵐(Progear: Storm Of Progia)</a>）
 ","
 そもそも社会ってものが　地位や肩書きという虚構を見せて
 人の一生の元気な若い時分を捨てさせる装置だから
@@ -3146,62 +3146,62 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 「大事だね」
 「聞いてはいるし、画面は見てるんだけどさ…」
 
-（<a href=\"https://youtu.be/iBi3_IkNCmg?t=2097\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+（<a href=\"https://www.youtube.com/watch?v=iBi3_IkNCmg&t=2097s\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ","
 「こんなの面白い？こういうゲーム？」
 「いやぁ、見てる分には面白いｗ」
 「そうそう、こうやって、やっぱね、誰かの仕事が、誰かを笑顔にしてる」
 
-（<a href=\"https://youtu.be/iBi3_IkNCmg?t=2180\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+（<a href=\"https://www.youtube.com/watch?v=iBi3_IkNCmg&t=2180s\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ","
 「お前、ガンダムの世界にいるんだよ今」
 
-（<a href=\"https://youtu.be/iBi3_IkNCmg?t=2232\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+（<a href=\"https://www.youtube.com/watch?v=iBi3_IkNCmg&t=2232s\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ","
 「みんなも覚えてくださいね、これね。『核爆発の前には、盾を張る』」
 
-（<a href=\"https://youtu.be/iBi3_IkNCmg?t=2643\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+（<a href=\"https://www.youtube.com/watch?v=iBi3_IkNCmg&t=2643s\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ","
 「まるで最初から、定めを知っているかのような…」
 
-（<a href=\"https://youtu.be/iBi3_IkNCmg?t=3595\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+（<a href=\"https://www.youtube.com/watch?v=iBi3_IkNCmg&t=3595s\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ","
 「問題はな、このムービーを強制的に毎回見せられて人生の無駄な時間…寿命をここで使う」
 
-（<a href=\"https://youtu.be/iBi3_IkNCmg?t=4345\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+（<a href=\"https://www.youtube.com/watch?v=iBi3_IkNCmg&t=4345s\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ","
 「これを見ても身になる事は何もないぞ！」
 
-（<a href=\"https://youtu.be/iBi3_IkNCmg?t=4417\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+（<a href=\"https://www.youtube.com/watch?v=iBi3_IkNCmg&t=4417s\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ","
 「攻略本見ながら…」
 「ダメ！だって攻略本って、それ答えじゃん！ダメです」
 「未来の手は自分の手で…」
 「掴まないとダメだよ！」
 
-（<a href=\"https://youtu.be/iBi3_IkNCmg?t=6133\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
+（<a href=\"https://www.youtube.com/watch?v=iBi3_IkNCmg&t=6133s\">休業日配信28日目 その6　AKIRA vs GUNDAM 0079 THE WAR FOR EARTH</a>）
 ","
 「分かる？今の俺の気持ち」
 「…わかる」
 「嘘つけお前にゃ分かんないだろ」
 
-（<a href=\"https://youtu.be/iwkNGgeRMLg?t=2116\">ゲーセンミカド24時間生配信　その5　AKIRA vs GUNDAM0079 2</a>）
+（<a href=\"https://www.youtube.com/watch?v=iwkNGgeRMLg&t=2116s\">ゲーセンミカド24時間生配信　その5　AKIRA vs GUNDAM0079 2</a>）
 ","
 「これを見るために起きてます！」
 「うるせぇ、寝ろ！」
 
-（<a href=\"https://youtu.be/iwkNGgeRMLg?t=8672\">ゲーセンミカド24時間生配信　その5　AKIRA vs GUNDAM0079 2</a>）
+（<a href=\"https://www.youtube.com/watch?v=iwkNGgeRMLg&t=8672s\">ゲーセンミカド24時間生配信　その5　AKIRA vs GUNDAM0079 2</a>）
 ","
 そういうガンダムのゲームあるんすねーって。
 そしたら「これ面白いんだよアキラ」、とか言って。「クソゲーだからやろうぜ」「まぁいいっすよ」
 
 …なにが「いいすっよ」だよその時の俺。
 
-（<a href=\"https://youtu.be/x1g9PI43R6w?t=6244\">ゲーセンミカド24時間生配信　その14　AKIRA vs GUNDAM 0079 その3</a>）
+（<a href=\"https://www.youtube.com/watch?v=x1g9PI43R6w&t=6244s\">ゲーセンミカド24時間生配信　その14　AKIRA vs GUNDAM 0079 その3</a>）
 ","
 「『金はミカドを救う』、はい、尤もでございます。そりゃ当然です。お金があれば99%の問題はだいたい片が付きますからね」
 
-（<a href=\"https://youtu.be/x1g9PI43R6w?t=6324\">ゲーセンミカド24時間生配信　その14　AKIRA vs GUNDAM 0079 その3</a>）
+（<a href=\"https://www.youtube.com/watch?v=x1g9PI43R6w&t=6324s\">ゲーセンミカド24時間生配信　その14　AKIRA vs GUNDAM 0079 その3</a>）
 ","
 余剰価値が発生するのが労働の現場だとしても、それが実現するのは販売されてのことである。商品は売れなければ余剰価値も実現できない。
 
@@ -3339,7 +3339,7 @@ A3.ないって答えるほど自分は<ruby>偽善者<rt>ぎぜんしゃ</rt></
 「つらいぞこのゲーム」
 
 「みんなね、勝手なんですよ人は」
-（<a href=\"https://youtu.be/ciTKMjkP-ng?t=12\">休業日配信1日目　その3　グラディウス3 vs ちゃんたけ　20200408</a>）
+（<a href=\"https://www.youtube.com/watch?v=ciTKMjkP-ng&t=12s\">休業日配信1日目　その3　グラディウス3 vs ちゃんたけ　20200408</a>）
 ","
 遊びの道に　魂込めた
 一人の男が今日もゆく
@@ -3491,7 +3491,7 @@ artistとしてプロになってから，作品が堕落するのはよく見�
 「まぁ道路があるってことは、そこに戦車が…」
 「現れる」
 
-<a href=\"https://youtu.be/1Lyp6l21sFs?t=855\">【春のシューティング祭り】hamami vs『ガンネイル』20210327</a>
+<a href=\"https://www.youtube.com/watch?v=1Lyp6l21sFs&t=855s\">【春のシューティング祭り】hamami vs『ガンネイル』20210327</a>
 ","
 友達と遊んでるのって、すごい虚無な感じがして。
 休みになりました、友達とカラオケに行きました、すごく楽しかったね、次の日から同じ月曜日……と繰り返されるのが虚無な感じがしたんです。
@@ -3529,7 +3529,7 @@ UTOPIA
 建築やってる人とか土木やってる人とかはご存知だと思うんですけど。
 自分で作ってみて初めて「あれ、ここどうやって作ったら良いんだろう」とか
 
-（<a href=\"https://youtu.be/PtYzmfzJuLI?t=951\">CGアーティスト 榊原寛</a>）
+（<a href=\"https://www.youtube.com/watch?v=PtYzmfzJuLI&t=951s\">CGアーティスト 榊原寛</a>）
 ","
 ゲームって「限られた処理」をそれぞれのチームが取り合うんで、
 すごい細かいちゃんとした処理って、
@@ -3539,7 +3539,7 @@ UTOPIA
 （中略）
 いろんな簡略化があって、「それをどうやって見せないようにするのか」っていうのが…。
 
-（<a href=\"https://youtu.be/6T6qlQbgGbM?t=865\">CGアーティスト 榊原寛</a>）
+（<a href=\"https://www.youtube.com/watch?v=6T6qlQbgGbM&t=865s\">CGアーティスト 榊原寛</a>）
 ","
 これがアキバのジャンク屋だ！
 このジャンクから夢や希望を抱くことができる人求む！
@@ -3563,7 +3563,7 @@ UTOPIA
 「（最終的に）敵の体力と対話をするゲームになる。
 　『あー、一発足らないよね。うん、知ってた』みたいな自問自答があるんですよ」
 
-（<a href=\"https://youtu.be/G8gs7KHwM0g?t=2295\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
+（<a href=\"https://www.youtube.com/watch?v=G8gs7KHwM0g&t=2295s\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
 ","
 「家庭用で練習とかしてからで全然構わないんで、ゲームセンターでぜひ、一度、チャレンジしてみてほしい」
 「家でずーっとやってるのと、ゲーセンでワンコインを入れて一発勝負っていうのの、気持ちの入れ具合っていうか、全然別なんですよ」
@@ -3571,15 +3571,15 @@ UTOPIA
 　…なーんつって、金入んないんだよ（笑）　コインシューター、詰まりました。」
 「ゲームの上澄みだけ啜れる、みたいなところある」
 
-（<a href=\"https://youtu.be/G8gs7KHwM0g?t=3675\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
+（<a href=\"https://www.youtube.com/watch?v=G8gs7KHwM0g&t=3675s\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
 ","
 「生きてれば、正解ですから。大丈夫ですよ」
 
-（<a href=\"https://youtu.be/G8gs7KHwM0g?t=4455\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
+（<a href=\"https://www.youtube.com/watch?v=G8gs7KHwM0g&t=4455s\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
 ","
 「『いつも通り』がどれだけ難しいか」
 
-（<a href=\"https://youtu.be/G8gs7KHwM0g?t=4510\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
+（<a href=\"https://www.youtube.com/watch?v=G8gs7KHwM0g&t=4510s\">春のシューティング祭2022　ぺけ vs ケツイ〜絆地獄たち〜</a>）
 ","
 今日の青い空は昨日と違う
 明日の青い空　今日と違う
@@ -3630,20 +3630,20 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 ","
 このゲーム、「モアイが出てこない」っていう批判の意見がよくあるんですけど、この「ビッグコアMk-I Rev.2」を見ると、「イオンリングはもうすでに自分たちで撃てるようになってるから、モアイは必要なくなったんだ」って俺が適当な事を言ったら、それに「感動した」って言ってるTwitterの人が居て、ありがとうｗ
 
-（<a href=\"https://youtu.be/Zu8mDh5bcjk?t=463\">春のシューティング祭2022　Knight2k vs グラディウスV　20220410</a>）
+（<a href=\"https://www.youtube.com/watch?v=Zu8mDh5bcjk&t=463s\">春のシューティング祭2022　Knight2k vs グラディウスV　20220410</a>）
 ","
 （グラディウスⅥは）今からでも遅くないですよ、全然。
 ぼくが死ぬまでに出してくれればそれでいいので。
 
-（<a href=\"https://youtu.be/Zu8mDh5bcjk?t=743\">春のシューティング祭2022　Knight2k vs グラディウスV　20220410</a>）
+（<a href=\"https://www.youtube.com/watch?v=Zu8mDh5bcjk&t=743s\">春のシューティング祭2022　Knight2k vs グラディウスV　20220410</a>）
 ","
 記憶のある方は、記憶を無くして、楽しんでいただければなと
 
-（<a href=\"https://youtu.be/Zu8mDh5bcjk?t=1584\">春のシューティング祭2022　Knight2k vs グラディウスV　20220410</a>）
+（<a href=\"https://www.youtube.com/watch?v=Zu8mDh5bcjk&t=1584s\">春のシューティング祭2022　Knight2k vs グラディウスV　20220410</a>）
 ","
 「グラディウスのルールにとらわれていない」っていう意味でも、ぼくはこの、グラディウスVは、異質ですけど、好きですね。「こういうのもアリですよ」っていう。
 
-（<a href=\"https://youtu.be/Zu8mDh5bcjk?t=1665\">春のシューティング祭2022　Knight2k vs グラディウスV　20220410</a>）
+（<a href=\"https://www.youtube.com/watch?v=Zu8mDh5bcjk&t=1665s\">春のシューティング祭2022　Knight2k vs グラディウスV　20220410</a>）
 ","
 「些細なことでもいい。違和感を見つけ出すの。」
 
@@ -3887,13 +3887,13 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 ","
 そんなちょっとの最適化で、大事な調整パラメータを失うのは、あまりにも効率が悪いというか、割りに合わない。
 
-（<a href=\"https://youtu.be/6EtTI5xC524?t=790\">スマートフォンでどこまでできる？3Dゲームをぐりぐり動かすテクニック講座</a>, 安原 祐二）
+（<a href=\"https://www.youtube.com/watch?v=6EtTI5xC524&t=790s\">スマートフォンでどこまでできる？3Dゲームをぐりぐり動かすテクニック講座</a>, 安原 祐二）
 ","
 三次元の回転っていうのが、こうもですね、深淵を含んでいる。
 とくに二価性のあたりは熱くて、世の中は裏と表があって、それは見た目ではわからない。
 っていうのが、中二心をくすぐるというか、おもしろいなと思うんですね。
 
-（<a href=\"https://youtu.be/HCTQNJu8OhE?t=3858\">納涼クォータニオン夏祭り</a>, 安原 祐二）
+（<a href=\"https://www.youtube.com/watch?v=HCTQNJu8OhE&t=3858s\">納涼クォータニオン夏祭り</a>, 安原 祐二）
 ","
 ー 光輝き周囲を飛び交う、十二の精霊。
 ","
@@ -3934,36 +3934,36 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 だから、本質的には、これは「もぐら叩きゲーム」。
 敵のいるところに、自機を合わせて撃つっていう。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=314\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=314s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 これね、なんで重なってると、弾が飛んでこないかっていうと、ブラインドで弾飛んできたらずるいじゃないですか。
 なので、これはバグとかではなくて、最初から仕様でやってた。
 
 「分からん殺し」のいいとこもいいとこじゃないですか。そういうのは、自分でやってても嫌なんです。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=787\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=787s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 ぼくもね、今見直しても、「あ、これいまだに世界一カッコいいゲームだ」って。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=901\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=901s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 ほんとね、最初作ったらしょぼく見えたので、どうやったらしょぼくないように出来るか、っていう工夫をいっぱいやってる。　
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=1116\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=1116s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 やっぱ、ぼく天才だなって思いますね。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=1227\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=1227s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 そう。ここは狭いので、ホーミングは緩めに設定してます。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=1337\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=1337s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 敵の弾に当たると、すごい「ガーン！」とかって、びっくりするじゃないですか。
 これも、あえて、弾当たってもゲージが減るだけじゃなくて、バーン！ってすごい音がするように。
 それでビビらせる。あたった！っていうのが分かりやすくなるように考えてる。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=1362\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=1362s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 基本的に、画面外にはけたやつは出てこない。その代わり、画面内にいる限りずっと動くっていう、そういう仕様でやったんです。
 それはなぜかっていうと、画面外から攻撃されると、ずるいじゃないですか。
@@ -3972,31 +3972,31 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 ぼく、このころは、自分で作ったゲームを、自分でクリアできないと、絶対お客さんに出せない。
 今でもクリアできます。でも例外はUステージで、ちょうど調子がよくないと、クリアできない。
 ギャルを助けるところだから難しくしてる。
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=1471\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=1471s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 プレイヤーの誘導弾があるじゃないですか。
 あれも、スペースハリアーの誘導弾と仕組みはちょっと違うんですけど、あれを見て。
 やっぱ、あの、3Dのゲームって、弾当たんないんですよ。なかなか。
 誘導弾があれば必ず当たるっていう、そういう事を考えて作ったんですよね。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=1580\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=1580s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 強くなるけど、デカくなるデメリットの方がデカいっていうのは、同時はあまり気がつかなくて。
 いや～「これの方がカッコいいだろ」。まぁ、あの、カッコよさ優先ですからね。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=1637\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=1637s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 ここ、文字が流れて出てくるじゃないですか。　
 この当時は１文字ずつ出てくるのが普通だったんですけど、ぼく、それじゃつまらないと思って。
 フェードインで出てきます。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=1679\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=1679s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 「海面に行ったときに、水しぶきが上がるじゃないですか」
 「かっこいいですよね」
 「下に降りる甲斐がある。…降りたい」
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=1831\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=1831s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 レバーを入れた方向に進むわけじゃないんです。レバーを入れたアナログ値が、画面のポジションを指すんです。
 そのポジションに向かって自機が行く。
@@ -4009,21 +4009,21 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 その代わり壊れやすくなった（笑）。
 ゲームセンターの人が頑張ってくれて嬉しい。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=1855\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=1855s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 ぼくね、結構自分の作ったゲーム自分で遊ぶんです。しかも、金出して。
 いいゲームは金出しても遊びたいよねって。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=1984\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=1984s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 ぼくも、実はUゾーンが一番好きなんです。
 まぁ、自分でも二回に一回ぐらいしかクリアできないですけど。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=2080\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=2080s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 作ってる時は「オール・パシフィスト」できる人なんかいないやろって思ってたんですけど、やりますね、みなさん。
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=2197\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=2197s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 このゲーム、ボスがすごい簡単じゃないですか。これも狙いがあって、ボス戦で粘られたくない。
 ボス戦はもう、ゴールしたなっていう、終わり感がある、到達したなっていう。儀式ですね。
@@ -4031,7 +4031,7 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 
 「でも、それもメリハリあっていいですよね。道中は結構厳しくて『やったボスだ楽できるー！』みたいなね」
 
-（<a href=\"https://youtu.be/NbUDJwZJUj8?t=2335\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
+（<a href=\"https://www.youtube.com/watch?v=NbUDJwZJUj8&t=2335s\">海道賢仁, ゲームデザイナー, 「ナイトストライカー」について</a>）
 ","
 米国眼科アカデミーはブルーライトカット眼鏡を推奨しません。
 目が疲れた場合には、休憩することです。
@@ -4040,7 +4040,7 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 ","
 人が一番強いときは、恐れないときです。
 
-<a href=\"https://youtu.be/PTT6ZM7KXOM?t=1451\">夏休みシューティング配信 ちゃんたけ vs 東方電幻景#3 2022/08/22</a>
+<a href=\"https://www.youtube.com/watch?v=PTT6ZM7KXOM&t=1451s\">夏休みシューティング配信 ちゃんたけ vs 東方電幻景#3 2022/08/22</a>
 ","
 プログラミング言語でnull 参照が広く利用されるようになったのは1965年にさかのぼります。
 この年にコンピュータ科学者のTony Hoareが非常に影響力のあるALGOL 言語にnull 参照を追加しました。
@@ -4107,7 +4107,7 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 ","
 胃が痛い
 
-<a href=\"https://youtu.be/vsHrYdmacQ4?t=1993\">秋のシューティング祭り 大山vs達人王　2022/10/04</a>
+<a href=\"https://www.youtube.com/watch?v=vsHrYdmacQ4&t=1993s\">秋のシューティング祭り 大山vs達人王　2022/10/04</a>
 ","
 キミ、自分が何をすべきか分かってる？
 
@@ -4156,7 +4156,7 @@ vaporwaveはpopを意識した、ある種のパロディで、決して大衆�
 見えてる情報なんて、本当に一部で。
 見えてないことで、ぼくらの仕事は動いてる。
 
-<a href=\"https://youtu.be/qFO4ofVdaJo?t=305\">秋のシューティング祭り　イケダミノロックvs雷電III　2022/10/26</a>
+<a href=\"https://www.youtube.com/watch?v=qFO4ofVdaJo&t=305s\">秋のシューティング祭り　イケダミノロックvs雷電III　2022/10/26</a>
 ","
 「自分が関わっている作品がいつ打ち切りになっても、みっともなく終わることのないような準備をしておく」
 
@@ -4308,7 +4308,7 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 ","
 1バイトも役にたたない。
 
-（<a href=\"https://youtu.be/-WwGuyQvhH4?t=302\">秋のシューティング祭り　イケダミノロックvsもうぢゃ（隠しモード）　2022/11/2 </a>）
+（<a href=\"https://www.youtube.com/watch?v=-WwGuyQvhH4&t=302s\">秋のシューティング祭り　イケダミノロックvsもうぢゃ（隠しモード）　2022/11/2 </a>）
 ","
 もし人類がこのまま暴走しても，1億年後に二酸化炭素や窒素酸化物を摂取して繁栄する生物が生まれたとしたら，私たち人類は「よくぞ大気に窒素酸化物を満たしてくれた」「かつての人類の繁栄はまさに地球の神秘」と絶賛されることでしょう．
 
@@ -4600,24 +4600,24 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 気象予報士になると、風が見えるようになる
 風が見えるのは、全部理屈があるから
 
-（<a href=\"https://youtu.be/wDHkSzOXQYU?t=601\">石原良純</a>, 気象予報士）
+（<a href=\"https://www.youtube.com/watch?v=wDHkSzOXQYU&t=601s\">石原良純</a>, 気象予報士）
 ","
 空あるんだから
 予報も大事だけど
 空見りゃわかるのよ
 
-（<a href=\"https://youtu.be/wDHkSzOXQYU?t=978\">石原良純</a>, 気象予報士）
+（<a href=\"https://www.youtube.com/watch?v=wDHkSzOXQYU&t=978s\">石原良純</a>, 気象予報士）
 ","
 天気って地面から見上げてるものだと思ったら、
 気象学の根本は地球、太陽、空気、水から始まる
 これって神様の世界じゃん？
 
-（<a href=\"https://youtu.be/wDHkSzOXQYU?t=995\">石原良純</a>, 気象予報士）
+（<a href=\"https://www.youtube.com/watch?v=wDHkSzOXQYU&t=995s\">石原良純</a>, 気象予報士）
 ","
 （都会人にとって）一番近い自然が空。
 で、その空は、どんな海よりも広いし、どんな山よりも高い。
 
-（<a href=\"https://youtu.be/wDHkSzOXQYU?t=644\">石原良純</a>, 気象予報士）
+（<a href=\"https://www.youtube.com/watch?v=wDHkSzOXQYU&t=644s\">石原良純</a>, 気象予報士）
 ","
 イクラ丼が食べたかったなぁ　いやでもそぉでもないかなぁ～？
 
@@ -4805,7 +4805,7 @@ AppleIIだつたことは言うまでもない。もしAppleIIに出会ってい
 
 その1人を見つける手段が、もう少し馴染みのある一般的なものになれば、また話は変わってくるのにな、と思いました。
 
-（<a href=\"https://youtu.be/rTFGbNf8KEo?t=947\">相続廃別荘の処分</a>, 吉川祐介）
+（<a href=\"https://www.youtube.com/watch?v=rTFGbNf8KEo&t=947s\">相続廃別荘の処分</a>, 吉川祐介）
 ","
 その船を漕いでゆけ　おまえの手で漕いでゆけ
 おまえが消えて喜ぶ者に　おまえのオールをまかせるな
