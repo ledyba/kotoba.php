@@ -5484,6 +5484,8 @@ Takuanさん：クッキークリッカーの話です。
 　…た・ま・に・な・ら、ね」
 
 （『幻日のヨハネ 光景記』SCENE.01 / 「幻日のヨハネ」 Blu-ray 第一巻特典映像）
+","
+ー 死ぬように眠りにつき、転生するように夢を視る。
 ");
 
 echo "<!-- start random message (". strval(count($str))." messages) -->\n";
