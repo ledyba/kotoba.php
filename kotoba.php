@@ -5486,6 +5486,10 @@ Takuanさん：クッキークリッカーの話です。
 （『幻日のヨハネ 光景記』SCENE.01 / 「幻日のヨハネ」 Blu-ray 第一巻特典映像）
 ","
 ー 死ぬように眠りにつき、転生するように夢を視る。
+","
+ひとが男性なのか女性なのかはあんまり意識していないから、どうしたらいいのかわからない。
+
+（<a href=\"https://littlemore.co.jp/a-is-for-asexual/04\">関係性の最上級？ | A is for Asexual | 川野芽生</a>）
 ");
 
 echo "<!-- start random message (". strval(count($str))." messages) -->\n";
