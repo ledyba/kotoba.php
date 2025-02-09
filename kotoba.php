@@ -5540,6 +5540,10 @@ Takuanさん：クッキークリッカーの話です。
 
 （<a href=\"https://littlemore.co.jp/a-is-for-asexual/00\">イントロダクション | A is for Asexual | 川野芽生</a>）
 ","
+おまえは、おまえが思っているような人間ではない、と言われ続けるのは苦しかった。おまえはおまえがそうありたいと願っているようには生きられない。おまえは必ず変わる。おまえが今思っているのは全部「本当」ではない、と。
+
+（<a href=\"https://littlemore.co.jp/a-is-for-asexual/00\">イントロダクション | A is for Asexual | 川野芽生</a>）
+","
 ひとが男性なのか女性なのかはあんまり意識していないから、どうしたらいいのかわからない。
 
 （<a href=\"https://littlemore.co.jp/a-is-for-asexual/04\">関係性の最上級？ | A is for Asexual | 川野芽生</a>）
