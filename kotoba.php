@@ -5843,6 +5843,10 @@ Takuanさん：クッキークリッカーの話です。
 取れるところから、少し取らせてもらうだけだ。
 
 （「<a href=\"https://www.dlsite.com/home/work/=/product_id/RJ01066532.html\">ヴェルディグリは緑青に</a>」 / 和風すくろーる）
+","
+人のほとんどは死に、自然の多くは朽ち、空に残るのは仄かな光。
+
+（「<a href=\"https://www.dlsite.com/home/work/=/product_id/RJ270846.html\">ここから始まらない幸せ</a>」 / 和風すくろーる）
 ");
 
 echo "<!-- start random message (". strval(count($str))." messages) -->\n";
