@@ -6189,6 +6189,11 @@ Takuanさん：クッキ―クリッカ―の話です。
 真実じゃ救われないから！
 
 （「T氏の話を信じるな」 / ピノキオピー）
+","
+FAKEか? REALか?　見分けつかん愛
+FAKEか? REALか?　悩む時間ないわ
+
+（「T氏の話を信じるな」 / ピノキオピー）
 ");
 
 echo "<!-- start random message (". strval(count($str))." messages) -->\n";
