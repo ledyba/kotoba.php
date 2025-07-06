@@ -6194,6 +6194,10 @@ FAKEか? REALか?　見分けつかん愛
 FAKEか? REALか?　悩む時間ないわ
 
 （「T氏の話を信じるな」 / ピノキオピー）
+","
+そして　この歌も信じるな
+
+（「T氏の話を信じるな」 / ピノキオピー）
 ");
 
 echo "<!-- start random message (". strval(count($str))." messages) -->\n";
