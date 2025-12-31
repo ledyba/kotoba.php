@@ -6215,6 +6215,17 @@ FAKEか? REALか?　悩む時間ないわ
 熱狂が生まれるとき、それが事実かどうかは大した問題にならない。
 
 （本質をつかむ聞く力 / 松原 耕二）
+","
+必ず手に入れたいものは　誰にも知られたくない
+
+（CHAGE and ASKA / YAH YAH YAH / 飛鳥涼 作詞）
+","
+掴んだ拳を使えずに　言葉を失くしてないかい
+傷つけられたら牙をむけ　自分を失くさぬために
+
+今から一緒に　これから一緒に　殴りに行こうか
+
+（CHAGE and ASKA / YAH YAH YAH / 飛鳥涼 作詞）
 ");
 
 echo "<!-- start random message (". strval(count($str))." messages) -->\n";
